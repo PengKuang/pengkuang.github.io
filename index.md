@@ -1,5 +1,5 @@
 ---
-title: "Peng Kuang | PhD student in Computer Science | researcher | AI/machine learning/LLM | software engineering"
+title: "Peng Kuang | PhD student in Computer Science | eye tracking | AI/machine learning/LLM | software engineering"
 layout: default
 ---
 

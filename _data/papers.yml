@@ -1,0 +1,35 @@
+- acronym: ICSE-NIER23
+title:Toward Gaze-assisted Developer Tools
+venue:45th International Conference on Software Engineering: New Ideas and Emerging Results 
+authors:Peng Kuang, Emma Söderberg, Diederick C Niehorster, Martin Höst
+link:https://ieeexplore.ieee.org/abstract/document/10173906
+code:https://portal.research.lu.se/files/137278187/ICSENIER2023KuangEtAlartifact.xlsx
+rate: 0.22
+note:
+
+- acronym: EMIP23
+title:Applying Machine Learning to Gaze Data in Software Development: a Mapping Study
+venue:Eleventh International Workshop on Eye Movements in Programming, EMIP 2023
+authors:Peng Kuang, Emma Söderberg, Diederick C Niehorster, Martin Höst
+link:https://dl.acm.org/doi/abs/10.1145/3588015.3589190
+code:https://portal.research.lu.se/en/publications/applying-machine-learning-to-gaze-data-in-software-development-a-
+rate:
+note: 
+
+- acronym: PX24
+title:Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey
+venue:Programming '24: Companion Proceedings of the 8th International Conference on the Art, Science, and Engineering of Programming
+authors:Peng Kuang, Emma Söderberg,Martin Höst
+link:https://dl.acm.org/doi/abs/10.1145/3660829.3660848
+code:https://doi.org/10.1109/SCAM55253.2022.00033}{10.1109/SCAM55253.2022.00033
+rate:
+note:
+
+- acronym: PPIG24
+title: Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance
+venue:35th Annual Workshop of the Psychology of Programming Interest Group, PPIG 2024
+authors:Peng Kuang, Emma Söderberg, Martin Höst
+link:https://www.ppig.org/files/2024-PPIG-35th-kuang.pdf
+code:https://doi.org/10.5281/zenodo.13853909
+rate:
+note:
