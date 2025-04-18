@@ -133,14 +133,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sublimation_angels/";
-            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-party-popper-partying-face",
-          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering. :party_popper: :partying_face:',
+            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-firework-partying-face",
+          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering. :firework: :partying_face:',
           description: "",
           section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny-heart",
           title: 'I spent a pleasant month with my mom and family in my hometown...',
           description: "",
-          section: "News",},{id: "news-i-joined-the-wasp-study-trip-to-the-silicon-valley-ca-usa",
-          title: 'I joined the WASP study trip to the silicon valley, CA, USA',
+          section: "News",},{id: "news-i-joined-the-wasp-study-trip-to-the-silicon-valley-ca-usa-smile",
+          title: 'I joined the WASP study trip to the silicon valley, CA, USA :smile:...',
           description: "",
           section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-vl-2024-in-liverpool-uk",
           title: 'I gave a presentation at PPIG/HCC &amp;amp; VL 2024 in Liverpool, UK',
