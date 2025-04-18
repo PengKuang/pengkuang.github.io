@@ -29,7 +29,7 @@ latest_posts:
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm a WASP-affiliated Ph.D. student in Computer Science. My research focuses on the intersection of machine learning, eye tracking, and programming systems or developer tools, with influences from software engineering and design science. In addition, I'm interested in computational cognition, neuroscience, game development, XR/VR, quantum computing.
+I'm a WASP-affiliated Ph.D. student in Computer Science. My research focuses on the intersection of machine learning, eye tracking, and programming systems or developer tools, with influences from software engineering and design science. In addition, I'm interested in computational cognition, neuroscience, XR/VR, and quantum computing.
 
 I grew up in the rural area of Yongxing County, Chenzhou, located in the far south of Hunan Province in southern China. I have three siblings: two older sisters and one older brother. I also have two nephews and a niece, who I love very much. My late father was a mining engineer or technician. My mum is a so-called housewife - but with remarkable leadership and an entrepreneurial spirit. I had a lovely childhood, thanks to the beauty of the countryside and the freedom to explore nature.
 

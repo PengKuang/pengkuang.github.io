@@ -1,9 +1,25 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"LU":
+  url: https://portal.research.lu.se/en/persons/peng-kuang/publications/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"ICSE":
+  url: https://www.icse-conferences.org/index.html
   color: "#009f36"
+
+"PPIG":
+  url: https://ppig.org/
+
+"EMIP":
+  url: https://www.emipws.org/
+
+"Prog":
+  url: https://2024.programming-conference.org/
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
+
+"CHI":
+  url: https://chi2025.acm.org/
+
+"UIST":
+  url: https://uist.acm.org/2025/

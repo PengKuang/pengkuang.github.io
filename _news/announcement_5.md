@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I visited the PEACH lab at ETH Zurich :snowman: :snowflake: 
+I visited the PEACH lab at ETH Zurich :snowman: :snowflake:
