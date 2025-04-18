@@ -117,83 +117,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/post-citation/";
           
         },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
-      },{id: "post-a-post-with-code-diff",
-        
-          title: "a post with code diff",
-        
-        description: "this is how you can display code diffs",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/code-diff/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-vega-lite",
-        
-          title: "a post with vega lite",
-        
-        description: "this is what included vega lite code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
-      },{id: "post-a-post-with-chart-js",
-        
-          title: "a post with chart.js",
-        
-        description: "this is what included chart.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/chartjs/";
-          
-        },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
         
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -210,22 +133,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sublimation_angels/";
-            },},{id: "news-i-received-my-licentiate-degree-in-engineering",
-          title: 'I received my licentiate degree in engineering.',
+            },},{id: "news-i-received-my-licentiate-degree-in-engineering-sparkles-smile",
+          title: 'I received my licentiate degree in engineering. :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-emoji-tree-sun",
+          section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny",
           title: 'I spent a pleasant month with my mom and family in my hometown...',
           description: "",
-          section: "News",},{id: "news-i-joined-wasp-study-trip-to-the-silicon-valley-ca-usa-emoji-sparkles-smile",
-          title: 'I joined WASP study trip to the silicon valley, CA, USA emoji! :sparkles:...',
+          section: "News",},{id: "news-i-joined-wasp-study-trip-to-the-silicon-valley-ca-usa-sunny",
+          title: 'I joined WASP study trip to the silicon valley, CA, USA :sunny:',
           description: "",
           section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-vl-2024-in-liverpool-uk",
           title: 'I gave a presentation at PPIG/HCC &amp;amp; VL 2024 in Liverpool, UK',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-i-visited-the-peach-lab-at-eth-zurich-emoji-sparkles-smile",
-          title: 'I visited the PEACH lab at ETH Zurich emoji! :sparkles: :smile:',
+            },},{id: "news-i-visited-the-peach-lab-at-eth-zurich-snowflake-seeding",
+          title: 'I visited the PEACH lab at ETH Zurich :snowflake: :seeding:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -252,26 +175,6 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-acm',
         title: 'ACM DL',
@@ -285,13 +188,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6B%61%70.%6B%75%61%6E%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-facebook',
-        title: 'Facebook',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://facebook.com/pna2020", "_blank");
         },
       },{
         id: 'social-github',
@@ -341,13 +237,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.zotero.org/pengkuang", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
