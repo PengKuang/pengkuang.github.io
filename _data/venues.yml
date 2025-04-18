@@ -1,22 +1,26 @@
 "LU":
   url: https://portal.research.lu.se/en/persons/peng-kuang/publications/
-  color: "#00369f"
+  color: "#FFBF00"
 
 "ICSE":
   url: https://www.icse-conferences.org/index.html
-  color: "#009f36"
+  color: "#DE3163"
 
 "PPIG":
   url: https://ppig.org/
+  color: "#FFA07A"
 
 "EMIP":
   url: https://www.emipws.org/
+  color: "#6495ED"
 
-"Prog":
+"Programming":
   url: https://2024.programming-conference.org/
+  color: "#00369f"
 
 "TOSEM":
   url: https://dl.acm.org/journal/tosem
+  color: "#CCCCFF"
 
 "CHI":
   url: https://chi2025.acm.org/
