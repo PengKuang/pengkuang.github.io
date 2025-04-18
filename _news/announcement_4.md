@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I gave a presentation at PPIG/HCC & VL 2024 in Liverpool, UK.
+I gave a presentation at PPIG/HCC & VL 2024 in Liverpool, UK
 
 ---
 

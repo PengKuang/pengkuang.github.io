@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: Peng Kuang, 邝鹏, eye tracking, AI, LLM, machine learning, large language model, agent, computer science, software engineering, gaze, cognition, HCI, human-centered design, human-AI collaboration, PhD, professor, academic, Lund University, University of Melbourne, Monash University # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐧 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pengkuang.github.io # the base hostname & protocol for your site
 baseurl:
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Life Logging # blog_name will be displayed in your blog page
-blog_description: logs for my life experience and thoughts
+blog_description: 🇨🇳 🇦🇺 🇸🇪 🇨🇭
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

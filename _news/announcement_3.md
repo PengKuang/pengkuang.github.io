@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined WASP study trip to the silicon valley, CA, USA :sunny:
+I joined the WASP study trip to the silicon valley, CA, USA
