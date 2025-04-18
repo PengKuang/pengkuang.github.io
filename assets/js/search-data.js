@@ -150,9 +150,9 @@ ninja.data = [{
             },},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
           title: 'I started visiting the PEACH lab at ETH Zurich :snowman: :snowflake:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-adaptive-developer-tools-adapt2",
+          title: 'Adaptive Developer Tools (ADAPT2)',
+          description: "Funded by Swedish Foundation for Strategic Research, SSF",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-posters",
