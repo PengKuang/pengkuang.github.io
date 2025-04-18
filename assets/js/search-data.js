@@ -139,8 +139,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny-heart",
           title: 'I spent a pleasant month with my mom and family in my hometown...',
           description: "",
-          section: "News",},{id: "news-i-joined-the-wasp-study-trip-to-the-silicon-valley-ca-usa-smile",
-          title: 'I joined the WASP study trip to the silicon valley, CA, USA :smile:...',
+          section: "News",},{id: "news-i-joined-the-wasp-study-trip-to-the-silicon-valley-ca-usa",
+          title: 'I joined the WASP study trip to the silicon valley, CA, USA',
           description: "",
           section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-vl-2024-in-liverpool-uk",
           title: 'I gave a presentation at PPIG/HCC &amp;amp; VL 2024 in Liverpool, UK',
@@ -165,13 +165,13 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-baking",
+          title: 'baking',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-cooking",
+          title: 'cooking',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
