@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "The public version of my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -133,8 +133,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sublimation_angels/";
-            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-sparkles-smile",
-          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering. :sparkles: :smile:',
+            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-party-popper-partying-face",
+          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering. :party_popper: :partying_face:',
           description: "",
           section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny-heart",
           title: 'I spent a pleasant month with my mom and family in my hometown...',
@@ -147,8 +147,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
-            },},{id: "news-i-visited-the-peach-lab-at-eth-zurich-snowman-snowflake",
-          title: 'I visited the PEACH lab at ETH Zurich :snowman: :snowflake:',
+            },},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
+          title: 'I started visiting the PEACH lab at ETH Zurich :snowman: :snowflake:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
