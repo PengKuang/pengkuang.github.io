@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my Licentiate degree (a Scandinavian thing) in Engineering. :party_popper: :partying_face:
+I received my Licentiate degree (a Scandinavian thing) in Engineering. :firework: :partying_face:
