@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 天使升华在空中 （Sublimation Angels）
-author: [美] Jason Sanford
+author: Jason Sanford
 translator: 邝鹏
 cover: assets/img/book_covers/sublimation-angels.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -12,7 +12,7 @@ buy_link: https://read.douban.com/ebook/18501430/
 started: 2018-07-01
 finished: 2018-09-01
 released: 2018
-stars: 3.5 (6.8/10)
+stars: 3.5
 # goodreads_review: 6318556633
 status: Finished
 ---

@@ -1,0 +1,1 @@
+I'm a WASP-affiliated Ph.D. student in Computer Science. My research focuses on the intersection of machine learning, eye tracking, and programming systems or developer tools, with influence from software engineering and design science.
