@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I spent a pleasant month with my mom and family in my hometown Chenzhou, Hunan, CN emoji! :tree: :sun:
+I spent a pleasant month with my mom and family in my hometown Chenzhou, Hunan, CN :deciduous_tree: :sunny:

@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Peng Kuang
-    - name: Date of Birth
-      value: 14th March 1879
+    # - name: Date of Birth
+      value: 27th January 1900
     - name: Languages
       value: English, Chinese, Swedish
 

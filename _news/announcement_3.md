@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined WASP study trip to the silicon valley, CA, USA emoji! :sparkles: :smile:
+I joined WASP study trip to the silicon valley, CA, USA :sunny:

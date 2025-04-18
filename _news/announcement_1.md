@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my licentiate degree in engineering.
+I received my licentiate degree in engineering. :sparkles: :smile:
