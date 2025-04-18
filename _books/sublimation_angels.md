@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: 天使升华在空中 （Sublimation Angels）
-author: Jason Sanford
+author: Jason Sanford (translated by Peng Kuang 邝鹏)
 translator: 邝鹏
 cover: assets/img/book_covers/sublimation-angels.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)

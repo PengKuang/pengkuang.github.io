@@ -7,11 +7,11 @@ subtitle: <a href='https://portal.research.lu.se/en/persons/peng-kuang'>NEX lab,
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Peng </p>
+    # <p>Peng </p>
     <p>kap.kuang at gmail.com, </p>
-    <p>Lund, Sweden</p>
+    # <p>Lund, Sweden</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
