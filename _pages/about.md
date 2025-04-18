@@ -7,9 +7,9 @@ subtitle: <a href='https://portal.research.lu.se/en/persons/peng-kuang'>NEX lab,
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>kap.kuang at gmail.com, </p>
+    <p>kap.kuang at gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,4 +33,4 @@ I'm a WASP-affiliated Ph.D. student in Computer Science. My research focuses on 
 
 I grew up in the rural area of Yongxing County, Chenzhou, located in the far south of Hunan Province in southern China. I have three siblings: two older sisters and one older brother. I also have two nephews and a niece, who I love very much. My late father was a mining engineer or technician. My mum is a so-called housewife - but with remarkable leadership and an entrepreneurial spirit. I had a lovely childhood, thanks to the beauty of the countryside and the freedom to explore nature.
 
-In my spare time, I enjoy spending time in nature whenever possible, dancing to stay fit, cooking for myself and loved ones, jotting down my thoughts and feelings, and creating content on social media. 
+In my spare time, I enjoy spending time in nature whenever possible, dancing to stay fit, cooking for myself and loved ones, jotting down my thoughts and feelings, and creating content on social media.
