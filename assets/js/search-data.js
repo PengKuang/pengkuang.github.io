@@ -273,11 +273,25 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-acm',
+        title: 'ACM DL',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dl.acm.org/profile/6915122/", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6B%61%70.%6B%75%61%6E%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-facebook',
+        title: 'Facebook',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://facebook.com/pna2020", "_blank");
         },
       },{
         id: 'social-github',
@@ -291,7 +305,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Peng Kuang", "_blank");
+          window.open("https://www.linkedin.com/in/pengkuang", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -299,6 +313,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-7029-5655", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Peng-Kuang-2/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -315,11 +336,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=QDUM9CIAAAAJ", "_blank");
         },
       },{
-        id: 'social-researchgate_username',
-        title: 'Researchgate_username',
+        id: 'social-zotero',
+        title: 'Zotero',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.zotero.org/pengkuang", "_blank");
         },
       },{
         id: 'social-custom_social',
