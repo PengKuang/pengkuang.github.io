@@ -176,13 +176,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
-        id: 'social-acm',
-        title: 'ACM DL',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dl.acm.org/profile/6915122/", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -204,25 +197,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/pengkuang", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-7029-5655", "_blank");
-        },
-      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/Peng-Kuang-2/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
