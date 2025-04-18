@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -133,8 +133,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sublimation_angels/";
-            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-firework-partying-face",
-          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering. :firework: :partying_face:',
+            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-fireworks-balloon-partying-face",
+          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :fireworks: :balloon: :partying_face:...',
           description: "",
           section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny-heart",
           title: 'I spent a pleasant month with my mom and family in my hometown...',
@@ -155,9 +155,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-posters",
+          title: 'posters',
+          description: "All the posters for my research",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
