@@ -97,12 +97,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-adaptive-developer-tools-adapt2",
           title: 'Adaptive Developer Tools (ADAPT2)',
-          description: "Funded by Swedish Foundation for Strategic Research, SSF",
+          description: "SSF",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_adapt/";
             },},{id: "projects-posters",
           title: 'posters',
-          description: "All the posters for my research",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_posters/";
             },},{id: "projects-videos",
@@ -122,7 +122,7 @@ ninja.data = [{
               window.location.href = "/projects/5_cooking/";
             },},{id: "projects-gazing-at-code-review-gander",
           title: 'Gazing at Code Review (Gander)',
-          description: "Funded by ELLIIT",
+          description: "ELLIIT",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_gander/";
             },},{
