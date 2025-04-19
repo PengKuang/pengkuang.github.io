@@ -62,26 +62,15 @@ ninja.data = [{
             window.location.href = "/blog/2025/popular-science/";
           
         },
-      },{id: "post-a-post-with-plotly-js",
+      },{id: "post-a-mix-of-cooking-pics",
         
-          title: "a post with plotly.js",
+          title: "A mix of cooking pics",
         
-        description: "this is what included plotly.js code could look like",
+        description: "a mix of cooking pics",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/blog/2025/cooking-mix/";
           
         },
       },{id: "books-天使升华在空中-sublimation-angels",
