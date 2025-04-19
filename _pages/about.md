@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<a href='https://portal.research.lu.se/en/persons/peng-kuang'>NEX lab, Dept. Computer Science, Lund University</a> 
-<blockquote><em>It is what it is.</em></blockquote>
+  <a href='https://portal.research.lu.se/en/persons/peng-kuang'>NEX lab, Dept. Computer Science, Lund University</a>
 
 profile:
   align: right
