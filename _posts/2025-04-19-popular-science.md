@@ -22,8 +22,13 @@ Reading code is time-consuming for software engineers and therefore costs a lot 
 
 Code is the instructions that we use to communicate with a computer. We can write code in different programming languages such as C++, Java, and Python. A simple but commonly used code example for teaching the syntax (the way words can be arranged to formulate language structures) to beginners in almost every programming language is such a one-line statement:
 
-| System.out.print(“Hello World\!”); _\*\* This example statement is written in Java. It tells the computer to print out “Hello World\!”. When it is written in other programming languages, the syntax can be slightly or largely different depending on the programming language you choose._ |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+```
+
+    System.out.print(“Hello World!”);
+
+```
+
+_\*\* This example statement is written in Java. It tells the computer to print out “Hello World\!”. When it is written in other programming languages, the syntax can be slightly or largely different depending on the programming language you choose._
 
 Similar to how we compose texts in natural languages, code can be written as short or long. It can be as short as just one sentence. It can also be as long as millions of lines. The latter case normally occurs when we are developing large-scale software. The software essentially is a container of code. Large-scale software is just the type of software that contains more code, like a thick textbook containing millions of lines of text.
 
@@ -59,7 +64,7 @@ Providing such on-demand support may boost software engineers’ efficiency in r
 
 | Fact Box                     |                                                                                                            |
 | ---------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| **Term**                     | **Explanation**                                                                                            |
+| _**Term**_                   | _**Explanation**_                                                                                          |
 | Programming Languages        | A set of rules that a programmer can follow to compose instructions for a computer.                        |
 | Codebase                     | A virtual space for storing all the code and other necessary files of a software project.                  |
 | Stimulus                     | The material used in an eye-tracking experiment, e.g., an image or a code snippet.                         |
