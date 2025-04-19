@@ -5,7 +5,8 @@ description: Funded by Swedish Foundation for Strategic Research, SSF
 img: assets/img/ssf-en-sml.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
+citation: false
 ---
 
 <div class="row justify-content-sm-center">

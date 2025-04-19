@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Gazing at Code Review (Gander)
-description:  Funded by ELLIIT
+description: Funded by ELLIIT
 img: assets/img/projects/gander-architecture.png
-importance: 1
+importance: 4
 category: work
 related_publications: false
 ---
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ssf-en-sml.png" title="Gander Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/gander-architecture.png" title="Gander Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
