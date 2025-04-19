@@ -15,8 +15,6 @@ nav_order: 4
 - Object-Oriented Modeling and Design (Java, two semesters)
 - Database Technology (SQL & Java, one semester)
 
-### Theses
-
-#### Bachelor thesis
+### Bachelor Thesis
 
 - Locally Deploying an AI Chatbot to Limited Hardware with Custom Data
