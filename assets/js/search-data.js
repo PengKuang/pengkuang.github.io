@@ -113,22 +113,22 @@ ninja.data = [{
               window.location.href = "/projects/1_adapt/";
             },},{id: "projects-posters",
           title: 'posters',
-          description: "",
+          description: "visual creativity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_posters/";
             },},{id: "projects-videos",
           title: 'videos',
-          description: "presentations",
+          description: "oral presentations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_videos/";
             },},{id: "projects-baking",
           title: 'baking',
-          description: "",
+          description: "sweet life",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_baking/";
             },},{id: "projects-cooking",
           title: 'cooking',
-          description: "",
+          description: "soul food",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_cooking/";
             },},{id: "projects-gazing-at-code-review",
