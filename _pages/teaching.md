@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-# Courses
+### Courses
 
 - Agile Software Development (Java, Linux/Bash & git, three semesters, ongoing)
 - Software testing (Java, one semester)
@@ -15,8 +15,8 @@ nav_order: 4
 - Object-Oriented Modeling and Design (Java, two semesters)
 - Database Technology (SQL & Java, one semester)
 
-# Theses
+### Theses
 
-## Bachelor thesis
+#### Bachelor thesis
 
 - Locally Deploying an AI Chatbot to Limited Hardware with Custom Data
