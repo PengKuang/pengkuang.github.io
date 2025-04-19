@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
+        
+          title: "Can we make reading code easier with eye tracking?",
+        
+        description: "popular science style article",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/popular-science/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -95,9 +106,9 @@ ninja.data = [{
             },},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
           title: 'I started visiting the PEACH lab at ETH Zurich :snowman: :snowflake:',
           description: "",
-          section: "News",},{id: "projects-adaptive-developer-tools-adapt2",
-          title: 'Adaptive Developer Tools (ADAPT2)',
-          description: "SSF",
+          section: "News",},{id: "projects-adaptive-developer-tools",
+          title: 'Adaptive Developer Tools',
+          description: "ADAPT2",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_adapt/";
             },},{id: "projects-posters",
@@ -107,12 +118,12 @@ ninja.data = [{
               window.location.href = "/projects/2_posters/";
             },},{id: "projects-videos",
           title: 'videos',
-          description: "presentations of papers",
+          description: "presentations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_videos/";
             },},{id: "projects-baking",
           title: 'baking',
-          description: "another without an image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_baking/";
             },},{id: "projects-cooking",
