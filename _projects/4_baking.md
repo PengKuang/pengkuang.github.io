@@ -1,7 +1,7 @@
 ---
 layout: page
 title: baking
-description:
+description: sweet life
 img:
 importance: 5
 category: life

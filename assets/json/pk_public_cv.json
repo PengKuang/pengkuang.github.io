@@ -45,22 +45,34 @@
       "startDate": "2025-01-03",
       "endDate": "2025-03-23",
       "summary": "Visiting the PEACH lab.",
-      "highlights": []
+      "highlights": ["Conducted experiments with 40 novice programmer participants"]
     },
     {
-      "name": "LEADON Co. LTD",
-      "position": "Operations Lead",
+      "name": "GIIIT (GUANGDONG TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY)",
+      "position": "Business System Developer",
       "url": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-01-01",
-      "summary": "Lead operations in computational neuroscience.",
+      "startDate": "2020-06-15",
+      "endDate": "2021-03-31",
+      "summary": "Worked as an software developer in the university IT department.",
       "highlights": [
         "Managed ERP system implementation and monitoring (Oracle & Java)",
-        "Student Life cycle Management system (SLcM) research and evaluation"
+        "Student Life cycle Management system (SLcM) research and evaluation",
+        "Integration of the printing system PaperCut with payment service providers, e.g., Alipay.",
+        "Migration of the open-source asset management system SnipeIT.",
+        "Support for the open-source online learning system Moodle."
       ]
     },
     {
-      "name": "APPCOOL Co. LTD",
+      "name": "LEADON",
+      "position": "Head of Operations",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Lead operations in mobile tool publishing, marketing and monetization.",
+      "highlights": ["Formulated and tested the monetization strategy for sustainable revenue"]
+    },
+    {
+      "name": "APPCOOL",
       "position": "Co-founder",
       "url": "",
       "startDate": "2014-01-01",
@@ -69,7 +81,7 @@
       "highlights": ["Developed programming languages and tools", "Brain-computer interaction research"]
     },
     {
-      "name": "GAMELOFT SE",
+      "name": "GAMELOFT",
       "position": "Game Monetization Manager",
       "url": "",
       "startDate": "2013-01-01",
@@ -78,7 +90,7 @@
       "highlights": ["Implemented monetization tools and strategies", "Brain-computer interaction research"]
     },
     {
-      "name": "ZYNGA INC",
+      "name": "ZYNGA",
       "position": "ML-Ops / VAI Software Engineer",
       "url": "",
       "startDate": "2012-01-01",
@@ -92,8 +104,8 @@
       "url": "",
       "startDate": "2010-01-01",
       "endDate": "2012-01-01",
-      "summary": "Managed product marketing and operations.",
-      "highlights": ["Developed marketing strategies for game products", "Managed operational processes"]
+      "summary": "Managed product marketing and operations for multile game titles.",
+      "highlights": []
     },
     {
       "name": "RUNDIAN GAME SOFTWARE",
@@ -101,59 +113,86 @@
       "url": "",
       "startDate": "2008-01-01",
       "endDate": "2010-01-01",
-      "summary": "Specialized in marketing for game software.",
-      "highlights": ["Developed marketing campaigns", "Analyzed market trends"]
+      "summary": "",
+      "highlights": []
     },
     {
-      "name": "UNIMELB",
+      "name": "UNIVERSITY OF MELBOURNE",
       "position": "IT Project Officer (part-time)",
-      "url": "https://www.unimelb.edu.au/",
-      "startDate": "2019-01-01",
-      "endDate": "2019-12-01",
-      "summary": "Worked on IT projects related to deep learning and artificial intelligence.",
+      "url": "https://research.unimelb.edu.au/",
+      "startDate": "2019-07-15",
+      "endDate": "2019-10-31",
+      "summary": "Worked on the research website rebuild project.",
       "highlights": [
         "Tested new versions of the Research Hub website",
-        "Updated web pages for the project",
-        "Assisted in other areas such as data analysis and workflow automation"
+        "Maintained/updated web pages for the project",
+        "Assisted in other areas such as data analysis, workflow automation and project management"
       ]
     },
     {
-      "name": "UNIMELB",
+      "name": "UNIVERSITY OF MELBOURNE",
       "position": "Research Assistant (part-time)",
-      "url": "https://www.unimelb.edu.au/",
-      "startDate": "2018-01-01",
-      "endDate": "2019-01-01",
-      "summary": "Conducted research on distributed systems and mobile computing.",
-      "highlights": ["Research on health-seeking behavior of marginalized communities", "Support for the open-source online learning system Moodle"]
+      "url": "https://cis.unimelb.edu.au/",
+      "startDate": "2018-03-01",
+      "endDate": "2019-08-31",
+      "summary": "Worked as a research assistant for Prof. Shanton Chang.",
+      "highlights": [
+        "Research about the health-seeking behavior of a small, marginalized cohort of international students in Australia.",
+        "Secured a partnership with a leading social app for participant recruitment."
+      ]
     },
     {
-      "name": "UNIMELB",
+      "name": "UNIVERSITY OF MELBOURNE",
+      "position": "Councilor (part-time)",
+      "url": "https://gsa.unimelb.edu.au/",
+      "startDate": "2017-05-25",
+      "endDate": "2019-05-25",
+      "summary": "Worked as the president and office bearer of the graduate student association.",
+      "highlights": [
+        "Led the council to govern the operations of the organization including strategic planning, financial management, risk management, and policies and procedures development."
+      ]
+    },
+    {
+      "name": "PSYCHPRESS",
       "position": "Web Developer (intern)",
-      "url": "https://www.unimelb.edu.au/",
+      "url": "https://www.psychpress.com.au/",
       "startDate": "2018-01-01",
-      "endDate": "2018-06-01",
+      "endDate": "2018-03-31",
       "summary": "Developed web applications using PHP/Laravel.",
-      "highlights": ["Implemented new features and fixed bugs for existing web applications", "Worked on cluster and cloud computing projects"]
+      "highlights": [
+        "Implemented mobile-friendly login and sign-up features",
+        "fixed around 5 bugs (3 database querying and 2 loading speed optimization) for existing web applications"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "The <Programming> Conference",
-      "location": "",
+      "organization": "The 2025 <Programming> Conference",
+      "location": "Prague, Czheck",
       "position": "Co-chair of Publicity",
       "url": "",
-      "startDate": "2025-01-01",
-      "endDate": "2025-12-31",
-      "summary": "Organizing activities and managing publicity for the conference.",
+      "startDate": "2024-06-01",
+      "endDate": "2025-06-12",
+      "summary": "Assisting with creating content and managing publicity channels for the conference.",
       "highlights": []
     },
     {
-      "organization": "The Psychology of Programming Interest Group (PPIG)",
-      "location": "",
+      "organization": "The 2024 <Programming> Conference",
+      "location": "Lund, Sweden",
+      "position": "Co-chair of Posters and Demos",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-08-31",
+      "summary": "Organizing the program committee, finding reviewer and communicating the results with the authors.",
+      "highlights": []
+    },
+    {
+      "organization": "The 2023 Psychology of Programming Interest Group (PPIG)",
+      "location": "Lund, Sweden",
       "position": "Student Volunteer",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2022-09-01",
+      "endDate": "2023-09-31",
       "summary": "Volunteering for the interest group.",
       "highlights": []
     }
@@ -165,8 +204,8 @@
       "url": "https://www.lu.se/",
       "area": "Computer Science",
       "studyType": "Licentiate",
-      "startDate": "2023-05-01",
-      "endDate": "2023-05-01",
+      "startDate": "2021-04-01",
+      "endDate": "2024-04-15",
       "score": "",
       "courses": []
     },
@@ -176,8 +215,8 @@
       "url": "https://www.unimelb.edu.au/",
       "area": "Information Technology",
       "studyType": "Master",
-      "startDate": "2019-12-01",
-      "endDate": "2019-12-01",
+      "startDate": "2017-01-25",
+      "endDate": "2019-12-15",
       "score": "",
       "courses": []
     },
@@ -185,11 +224,11 @@
       "institution": "Monash University",
       "location": "Melbourne, Australia",
       "url": "https://www.monash.edu/",
-      "area": "IT",
+      "area": "Information Technology",
       "studyType": "Graduate Certificate",
-      "startDate": "2016-12-01",
-      "endDate": "2016-12-01",
-      "score": "80.875",
+      "startDate": "2016-01-25",
+      "endDate": "2016-12-15",
+      "score": "81",
       "courses": []
     }
   ],
@@ -210,7 +249,7 @@
     },
     {
       "title": "International Merit Scholarship",
-      "date": "2016-01-01",
+      "date": "2016-07-01",
       "awarder": "Monash University",
       "url": "",
       "summary": ""
@@ -219,28 +258,28 @@
   "certificates": [
     {
       "name": "AWS Cloud Practitioner Essentials",
-      "date": "2020-01-01",
+      "date": "2020-12-01",
       "issuer": "Amazon",
       "url": "",
       "icon": ""
     },
     {
       "name": "Google Cloud Platform Fundamentals",
-      "date": "2020-01-01",
+      "date": "2020-02-15",
       "issuer": "Google",
       "url": "",
       "icon": ""
     },
     {
       "name": "Responsive Web Design",
-      "date": "2020-01-01",
+      "date": "2020-02-15",
       "issuer": "FreeCodeCamp",
       "url": "",
       "icon": ""
     },
     {
       "name": "JavaScript Algorithms & Data Structures",
-      "date": "2020-01-01",
+      "date": "2020-02-15",
       "issuer": "FreeCodeCamp",
       "url": "",
       "icon": ""
@@ -251,42 +290,42 @@
       "name": "Applying Machine Learning to Gaze Data in Software Development: A Mapping Study",
       "publisher": "Proceedings of the International Workshop on Eye Movement in Programming (EMIP)",
       "releaseDate": "2023-01-01",
-      "url": "",
+      "url": "10.1145/3588015.3589190",
       "summary": ""
     },
     {
       "name": "Toward Gaze assisted Developer Tools",
       "publisher": "Proceedings of the 45th International Conference on Software Engineering New Ideas and Emerging Results (ICSE NIER)",
       "releaseDate": "2023-01-01",
-      "url": "",
+      "url": "10.1109/icse-nier58687.2023.00015",
       "summary": ""
     },
     {
       "name": "Developers Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey",
       "publisher": "Proceedings of the 10th Edition of the Programming Experience Workshop (PX)",
       "releaseDate": "2024-01-01",
-      "url": "",
+      "url": "10.1145/3660829.3660848",
       "summary": ""
     },
     {
       "name": "Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance",
       "publisher": "Proceedings of 35th Annual Workshop of The Psychology of Programming Interest Group (PPIG)",
       "releaseDate": "2024-01-01",
-      "url": "",
+      "url": "https://ppig.org/files/2024-PPIG-35th-kuang.pdf",
       "summary": ""
     },
     {
       "name": "Ironies of Programming Automation: Exploring the Experience of Code Synthesis Via Large Language Models",
       "publisher": "Proceedings of the 8th International Conference on the Art Science and Engineering of Programming",
       "releaseDate": "2024-01-01",
-      "url": "",
+      "url": "10.1145/3660829.3660835",
       "summary": ""
     },
     {
       "name": "Visual Cues in Compiler Conversations",
       "publisher": "Proceedings of the 33rd Annual Workshop of the Psychology of Programming Interest Group Annual Workshop (PPIG)",
       "releaseDate": "2022-01-01",
-      "url": "",
+      "url": "https://ppig.org/files/2022-PPIG-33rd-mccabe.pdf",
       "summary": ""
     }
   ],
@@ -319,6 +358,11 @@
       "language": "Swedish",
       "fluency": "Intermediate",
       "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
@@ -345,23 +389,52 @@
         "Software Testing",
         "Database Systems"
       ]
+    },
+    {
+      "name": "XR/VR",
+      "icon": "",
+      "keywords": [
+        "Game Development",
+        "Augumented Reality",
+        "Virtual Reality",
+        "Extended Reality",
+        "AI-assisted Game Creation",
+        "Data Visualization",
+        "Virtual Character",
+        "Embodied AI"
+      ]
+    },
+    {
+      "name": "Quantum Computing",
+      "icon": "",
+      "keywords": ["Quantum Programming", "Programming Languages and Compilers", "Error Correction", "Superposition", "Entanglement", "Circut Gate"]
+    },
+    {
+      "name": "Computational Neuroscience or Cognition",
+      "icon": "",
+      "keywords": ["Brain-Machine Interaction", "Cognitive interace", "Brain Plasticity", "Body Augumentation", "Circut Gate"]
     }
   ],
   "references": [
     {
       "name": "Professor Emma Söderberg",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem"
+      "reference": "emma.soderberg@cs.lth.se"
     },
     {
       "name": "Professor Martin Höst",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem"
+      "reference": "martin.host@mau.se"
     },
     {
       "name": "Dr. Diederick C. Niehorster",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem"
+      "reference": "diederick_c.niehorster@humlab.lu.se"
+    },
+    {
+      "name": "Professor Shanton Chang",
+      "icon": "fa-solid fa-laptop",
+      "reference": "shanton.chang@unimelb.edu.au"
     }
   ],
   "projects": [
@@ -369,17 +442,17 @@
       "name": "Adaptive Developer Tools (ADAPT2)",
       "summary": "Research project focused on developer tools adapted to the developer needs and the software development workflow.",
       "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "startDate": "2020-04-01",
+      "endDate": "2026-03-31",
+      "url": "https://portal.research.lu.se/en/projects/adaptive-developer-tools"
     },
     {
       "name": "Gaze in Code Review (Gander)",
       "summary": "Research project focused on building a gaze-driven code review platform.",
       "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "startDate": "2021-01-01",
+      "endDate": "2023-12-31",
+      "url": "https://portal.research.lu.se/en/projects/gazing-at-code-reviews"
     }
   ]
 }

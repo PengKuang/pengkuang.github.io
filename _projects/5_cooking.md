@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cooking
-description:
+description: soul food
 img: assets/img/1.jpg
 importance: 6
 category: life

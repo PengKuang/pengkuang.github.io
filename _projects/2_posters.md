@@ -1,7 +1,7 @@
 ---
 layout: page
 title: posters
-description:
+description: visual creativity
 img: assets/img/research-overview.png
 importance: 2
 category: work

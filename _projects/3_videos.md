@@ -1,7 +1,7 @@
 ---
 layout: page
 title: videos
-description: presentations
+description: oral presentations
 img: assets/img/publication_preview/licentiate-heatmap-example.png
 importance: 3
 category: work
