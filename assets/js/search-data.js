@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "The courses and projects that I&#39;ve been assisting with.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -106,11 +106,11 @@ ninja.data = [{
             window.location.href = "/blog/2024/typograms/";
           
         },
-      },{id: "post-a-post-that-can-be-cited",
+      },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
         
-          title: "a post that can be cited",
+          title: "Can we make reading code easier with eye tracking?",
         
-        description: "this is what a post that can be cited looks like",
+        description: "popular science style article",
         section: "Posts",
         handler: () => {
           
@@ -175,6 +175,11 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-gazing-at-code-review-gander",
+          title: 'Gazing at Code Review (Gander)',
+          description: "Funded by ELLIIT",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_gander/";
             },},{
         id: 'social-email',
         title: 'email',
