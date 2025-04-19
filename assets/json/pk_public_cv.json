@@ -44,8 +44,8 @@
       "url": "https://www.ethz.ch/",
       "startDate": "2025-01-03",
       "endDate": "2025-03-23",
-      "summary": "Visiting the PEACH lab.",
-      "highlights": ["Conducted experiments with 40 novice programmer participants"]
+      "summary": "Visiting the PEACH lab in the Department of Computer Science.",
+      "highlights": ["Hosted by Professor April Wang", "Conducted experiments with 40 novice programmer participants"]
     },
     {
       "name": "GIIIT (GUANGDONG TECHNION - ISRAEL INSTITUTE OF TECHNOLOGY)",
@@ -68,7 +68,7 @@
       "url": "",
       "startDate": "2015-01-01",
       "endDate": "2016-01-01",
-      "summary": "Lead operations in mobile tool publishing, marketing and monetization.",
+      "summary": "Led the operations team to manage the mobile application publishing, marketing and monetization.",
       "highlights": ["Formulated and tested the monetization strategy for sustainable revenue"]
     },
     {
@@ -84,17 +84,17 @@
       "name": "GAMELOFT",
       "position": "Game Monetization Manager",
       "url": "",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2013-04-01",
+      "endDate": "2014-03-31",
       "summary": "Managed game monetization strategies.",
       "highlights": ["Implemented monetization tools and strategies", "Brain-computer interaction research"]
     },
     {
       "name": "ZYNGA",
-      "position": "ML-Ops / VAI Software Engineer",
+      "position": "Product Manager & Community Manager",
       "url": "",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
+      "startDate": "2010-11-01",
+      "endDate": "2013-03-31",
       "summary": "Worked on machine learning operations and VAI software.",
       "highlights": ["Developed and maintained machine learning models", "Implemented VAI software solutions"]
     },
@@ -168,9 +168,9 @@
   "volunteer": [
     {
       "organization": "The 2025 <Programming> Conference",
-      "location": "Prague, Czheck",
+      "location": "Prague, Czech",
       "position": "Co-chair of Publicity",
-      "url": "",
+      "url": "https://2025.programming-conference.org/",
       "startDate": "2024-06-01",
       "endDate": "2025-06-12",
       "summary": "Assisting with creating content and managing publicity channels for the conference.",
@@ -180,14 +180,14 @@
       "organization": "The 2024 <Programming> Conference",
       "location": "Lund, Sweden",
       "position": "Co-chair of Posters and Demos",
-      "url": "",
+      "url": "https://2024.programming-conference.org/",
       "startDate": "2023-06-01",
       "endDate": "2024-08-31",
       "summary": "Organizing the program committee, finding reviewer and communicating the results with the authors.",
       "highlights": []
     },
     {
-      "organization": "The 2023 Psychology of Programming Interest Group (PPIG)",
+      "organization": "The 2023 Psychology of Programming Interest Group (PPIG) Workshop",
       "location": "Lund, Sweden",
       "position": "Student Volunteer",
       "url": "",
@@ -290,21 +290,21 @@
       "name": "Applying Machine Learning to Gaze Data in Software Development: A Mapping Study",
       "publisher": "Proceedings of the International Workshop on Eye Movement in Programming (EMIP)",
       "releaseDate": "2023-01-01",
-      "url": "10.1145/3588015.3589190",
+      "url": "https://doi.org/10.1145/3588015.3589190",
       "summary": ""
     },
     {
       "name": "Toward Gaze assisted Developer Tools",
       "publisher": "Proceedings of the 45th International Conference on Software Engineering New Ideas and Emerging Results (ICSE NIER)",
       "releaseDate": "2023-01-01",
-      "url": "10.1109/icse-nier58687.2023.00015",
+      "url": "https://doi.org/10.1109/ICSE-NIER58687.2023.00015",
       "summary": ""
     },
     {
       "name": "Developers Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey",
       "publisher": "Proceedings of the 10th Edition of the Programming Experience Workshop (PX)",
       "releaseDate": "2024-01-01",
-      "url": "10.1145/3660829.3660848",
+      "url": "https://doi.org/10.1145/3660829.3660848",
       "summary": ""
     },
     {
@@ -318,7 +318,7 @@
       "name": "Ironies of Programming Automation: Exploring the Experience of Code Synthesis Via Large Language Models",
       "publisher": "Proceedings of the 8th International Conference on the Art Science and Engineering of Programming",
       "releaseDate": "2024-01-01",
-      "url": "10.1145/3660829.3660835",
+      "url": "https://doi.org/10.1145/3660829.3660835",
       "summary": ""
     },
     {
@@ -334,13 +334,35 @@
       "name": "Machine Learning",
       "level": "Advanced",
       "icon": "",
-      "keywords": ["Python", "TensorFlow", "PyTorch"]
+      "keywords": ["Python", "TensorFlow", "PyTorch", "Hugging Face", "Kaggle", "R", "MATLAB"]
     },
     {
       "name": "Software Development",
       "level": "Advanced",
       "icon": "",
       "keywords": ["Java", "JavaScript", "PHP", "SQL", "HTML", "CSS"]
+    },
+    {
+      "name": "Tools",
+      "level": "Advanced",
+      "icon": "",
+      "keywords": [
+        "Git",
+        "Docker",
+        "Gradle",
+        "Jenkins",
+        "PyTorch",
+        "TensorFlow",
+        "React",
+        "Agile",
+        "JIRA",
+        "Unity",
+        "Figma",
+        "ERP",
+        "CRM",
+        "Salesforce",
+        "SAP"
+      ]
     }
   ],
   "languages": [

@@ -10,7 +10,7 @@ nav_order: 4
 ### Courses
 
 - Agile Software Development (Java, Linux/Bash & git, three semesters, ongoing)
-- Software testing (Java, one semester)
+- Software Testing (Java, one semester)
 - Software Development for Large Systems (Java & JS, one semester)
 - Object-Oriented Modeling and Design (Java, two semesters)
 - Database Technology (SQL & Java, one semester)
