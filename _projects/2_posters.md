@@ -1,7 +1,7 @@
 ---
 layout: page
 title: posters
-description: All the posters for my research
+description:
 img: assets/img/research-overview.png
 importance: 2
 category: work

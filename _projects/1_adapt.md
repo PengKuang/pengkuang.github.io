@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adaptive Developer Tools (ADAPT2)
-description: Funded by Swedish Foundation for Strategic Research, SSF
+description: SSF
 img: assets/img/ssf-en-sml.png
 importance: 1
 category: work

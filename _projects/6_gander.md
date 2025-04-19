@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gazing at Code Review (Gander)
-description: Funded by ELLIIT
+description: ELLIIT
 img: assets/img/projects/gander-architecture.png
 importance: 4
 category: work
