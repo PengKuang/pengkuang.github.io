@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Adaptive Developer Tools (ADAPT2)
-description: SSF
+title: Adaptive Developer Tools
+description: ADAPT2
 img: assets/img/ssf-en-sml.png
 importance: 1
 category: work

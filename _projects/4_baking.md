@@ -1,7 +1,7 @@
 ---
 layout: page
 title: baking
-description: another without an image
+description:
 img:
 importance: 5
 category: life
