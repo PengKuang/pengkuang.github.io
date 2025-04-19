@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -131,9 +131,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_cooking/";
-            },},{id: "projects-gazing-at-code-review-gander",
-          title: 'Gazing at Code Review (Gander)',
-          description: "ELLIIT",
+            },},{id: "projects-gazing-at-code-review",
+          title: 'Gazing at Code Review',
+          description: "Gander",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_gander/";
             },},{
