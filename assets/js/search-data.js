@@ -87,12 +87,10 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-the-wasp-study-trip-to-the-silicon-valley-ca-usa",
           title: 'I joined the WASP study trip to the silicon valley, CA, USA',
           description: "",
-          section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-vl-2024-in-liverpool-uk",
-          title: 'I gave a presentation at PPIG/HCC &amp;amp; VL 2024 in Liverpool, UK',
+          section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-amp-vl-2024-in-liverpool-uk",
+          title: 'I gave a presentation at PPIG/HCC &amp;amp;amp; VL 2024 in Liverpool, UK',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
+          section: "News",},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
           title: 'I started visiting the PEACH lab at ETH Zurich :snowman: :snowflake:',
           description: "",
           section: "News",},{id: "projects-adaptive-developer-tools",
