@@ -78,8 +78,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sublimation_angels/";
-            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-partying-face-balloon",
-          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :partying_face: :balloon:',
+            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
+          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
           section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny-heart",
           title: 'I spent a pleasant month with my mom and family in my hometown...',
