@@ -5,7 +5,7 @@ date: 2025-03-28 13:32:00
 description: a mix of cooking pics
 tags: cooking
 categories: life
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/cooking/cooking_korean_spicy_chicken.JPG
 images:
   lightbox2: true
   photoswipe: true
@@ -13,85 +13,40 @@ images:
   venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
-
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
+Miscellaneous pictures
 
 ---
 
-## [PhotoSwipe](https://photoswipe.com/)
+## [Recent dishes I made]
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
+  <a href="assets/img/cooking/cooking_bean_sprout.png"
+    data-pswp-width="960"
+    data-pswp-height="1280"
     target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
+    <img src="assets/img/cooking/cooking_bean_sprout.png" alt="" />
   </a>
   <!-- cropped thumbnail: -->
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"
-    data-pswp-width="1875"
-    data-pswp-height="2500"
+  <a href=assets/img/cooking/cooking_hotpot.png"
+    data-pswp-width="960"
+    data-pswp-height="1280"
     data-cropped="true"
     target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt="" />
-  </a>
-  <!-- data-pswp-src with custom URL in href -->
-  <a href="https://unsplash.com"
-    data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"
-    data-pswp-width="2500"
-    data-pswp-height="1666"
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt="" />
+    <img src="assets/img/cooking/cooking_hotpot.png" alt="" />
   </a>
   <!-- wrapped with any element: -->
   <div>
-    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"
-      data-pswp-width="2500"
-      data-pswp-height="1667"
+    <a href="assets/img/cooking/cooking_bear_chives.JPG"
+      data-pswp-width="960"
+      data-pswp-height="1280"
       target="_blank">
-      <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt="" />
+      <img src="assets/img/cooking/cooking_bear_chives.JPG" alt="" />
     </a>
+    <a href="assets/img/cooking/cooking_korean_spicy_chicken.png"
+    data-pswp-width="1280"
+    data-pswp-height="960"
+    target="_blank">
+    <img src="assets/img/cooking/cooking_korean_spicy_chicken.png alt="" />
+  </a>
   </div>
 </div>
-
----
-
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
-
-<!-- Group 1 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
-    </a>
-</div>
-<!-- Group 2 -->
-<div class="spotlight-group">
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg" />
-    </a>
-    <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" />
-    </a>
-</div>
-
----
-
-## [Venobox](https://veno.es/venobox/)
-
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
