@@ -73,21 +73,21 @@ ninja.data = [{
             window.location.href = "/blog/2025/cooking-mix/";
           
         },
-      },{id: "books-the-programmer-39-s-brain-what-every-programmer-needs-to-know-about-cognition",
-          title: 'The Programmer&amp;#39;s Brain - What every programmer needs to know about cognition',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/programmer_brain_2/";
-            },},{id: "books-天使升华在空中-sublimation-angels",
+      },{id: "books-天使升华在空中-sublimation-angels",
           title: '天使升华在空中 （Sublimation Angels）',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/sublimation_angels_1/";
+              window.location.href = "/books/1_sublimation_angels/";
+            },},{id: "books-the-programmer-39-s-brain-what-every-programmer-needs-to-know-about-cognition",
+          title: 'The Programmer&amp;#39;s Brain - What every programmer needs to know about cognition',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/2_programmer_brain/";
             },},{id: "books-academic-teaching",
           title: 'Academic Teaching',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/teaching_learning_highEd_3/";
+              window.location.href = "/books/3_teaching_learning_highEd/";
             },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
           title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
