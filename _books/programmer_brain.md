@@ -2,11 +2,11 @@
 layout: book-review
 title: The Programmer's Brain - What every programmer needs to know about cognition
 author: Felienne Hermans
-cover: assets/img/book_covers/book_programmer_brain.jpg
+cover: # assets/img/book_covers/book_programmer_brain.png
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781617298677 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: software engineering, computer science
-tags: programmer, programming, code, cognition, neuroscience
+tags: programmer programming code cognition neuroscience
 buy_link: https://www.manning.com/books/the-programmers-brain?utm_source=felienne&utm_medium=affiliate&utm_campaign=book_hermans2_programmers_12_8_20&a_aid=felienne&a_bid=d7c7c538
 started: 2024-09-01
 finished:

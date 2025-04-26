@@ -2,10 +2,10 @@
 layout: book-review
 title: Academic Teaching
 author: Maja Elmgren , Ann-Sofie Henriksson
-cover: assets/img/book_covers/book_academic_teaching.jpg
+cover: assets/img/book_covers/book_academic_teaching.png
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9789144101019 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: higher education, academia, teaching
+categories: higher education academia teaching
 tags: student learning higher-education
 buy_link: https://www.adlibris.com/se/bok/academic-teaching-9789144124025
 started: 2023-01-01
