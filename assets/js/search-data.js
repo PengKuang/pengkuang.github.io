@@ -77,17 +77,17 @@ ninja.data = [{
           title: 'The Programmer&amp;#39;s Brain - What every programmer needs to know about cognition',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/programmer_brain/";
+              window.location.href = "/books/programmer_brain_2/";
             },},{id: "books-天使升华在空中-sublimation-angels",
           title: '天使升华在空中 （Sublimation Angels）',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/sublimation_angels/";
+              window.location.href = "/books/sublimation_angels_1/";
             },},{id: "books-academic-teaching",
           title: 'Academic Teaching',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/teaching_learning_highEd/";
+              window.location.href = "/books/teaching_learning_highEd_3/";
             },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
           title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
