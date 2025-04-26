@@ -12,8 +12,6 @@ citation: false
 
 # Can we make reading code easier with eye tracking?
 
-(10 minute read)
-
 Peng Kuang
 
 Reading code is time-consuming for software engineers and therefore costs a lot of money. A study at Lund University is investigating technologies to shorten the time needed for it. Eye tracking is one of the solutions that hopefully can achieve that.

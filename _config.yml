@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Peng
 middle_name:
 last_name: Kuang
+zh_name: 邝鹏
 contact_note: >
   The best way to reach out to me is to send me an email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
