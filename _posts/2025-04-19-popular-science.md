@@ -8,8 +8,11 @@ categories: work
 citation: false
 ---
 
-{% include figure.liquid path="assets/img/posts/cover-gaze.jpg" class="img-fluid rounded" %}
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mb-3">
+    {% include figure.liquid path="assets/img/posts/cover-gaze.jpg" class="img-fluid rounded" %}
+    </div>
+</div>
 # Can we make reading code easier with eye tracking?
 
 Peng Kuang
