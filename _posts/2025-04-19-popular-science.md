@@ -8,7 +8,7 @@ categories: work
 citation: false
 ---
 
-![](https://web-api.textin.com/ocr_image/external/bb3c5c944b1aa20d.jpg)
+{% include figure.liquid path="assets/img/posts/cover-gaze.jpg" class="img-fluid rounded" %}
 
 # Can we make reading code easier with eye tracking?
 
