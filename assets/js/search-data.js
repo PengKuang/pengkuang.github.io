@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "The courses that I have been assisting with and the theses that I have been supervising.",
+          description: "The courses that I have been assisting with and the master and bachelor theses that I have supervised.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -78,8 +78,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/1_sublimation_angels/";
-            },},{id: "books-the-programmer-39-s-brain-what-every-programmer-needs-to-know-about-cognition",
-          title: 'The Programmer&amp;#39;s Brain - What every programmer needs to know about cognition',
+            },},{id: "books-the-programmer-39-s-brain",
+          title: 'The Programmer&amp;#39;s Brain',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/2_programmer_brain/";
@@ -87,7 +87,7 @@ ninja.data = [{
           title: 'Academic Teaching',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/3_teaching_learning_highEd/";
+              window.location.href = "/books/3_academic_teaching/";
             },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
           title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
@@ -115,7 +115,7 @@ ninja.data = [{
               window.location.href = "/projects/2_posters/";
             },},{id: "projects-videos",
           title: 'videos',
-          description: "oral presentations",
+          description: "oral communication",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_videos/";
             },},{id: "projects-baking",
