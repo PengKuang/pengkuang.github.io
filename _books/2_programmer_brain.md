@@ -1,6 +1,7 @@
 ---
 layout: book-review
-title: The Programmer's Brain - What every programmer needs to know about cognition
+title: The Programmer's Brain
+subtitle: What every programmer needs to know about cognition
 author: Felienne Hermans
 cover: assets/img/book_covers/book_programmer_brain.png
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
