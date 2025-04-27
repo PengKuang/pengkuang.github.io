@@ -115,7 +115,7 @@ ninja.data = [{
               window.location.href = "/projects/2_posters/";
             },},{id: "projects-videos",
           title: 'videos',
-          description: "oral communication",
+          description: "oral presentations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_videos/";
             },},{id: "projects-baking",
