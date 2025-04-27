@@ -10,9 +10,9 @@ citation: false
 ---
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0" href="https://strategiska.se/en/research/ongoing-research/framtidens-forskningsledare-7/project/10583/">
+    <a class="col-sm-4 mt-3 mt-md-0" href="https://strategiska.se/en/research/ongoing-research/framtidens-forskningsledare-7/project/10583/">
         {% include figure.liquid loading="eager" path="assets/img/ssf-en-sml.png" title="SSF" class="img-fluid rounded z-depth-1" %}
-    </div>
+    </a>
 </div>
 <div class="caption">
     Swedish Foundation for Strategic Research, SSF.
