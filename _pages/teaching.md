@@ -7,6 +7,11 @@ nav: true
 nav_order: 4
 ---
 
+### Qualifications
+
+- Introduction to Teaching and Learning in Higher Education
+- Communicating Research
+
 ### Courses
 
 - Agile Software Development (Java, Linux/Bash & Git, three semesters, ongoing)
