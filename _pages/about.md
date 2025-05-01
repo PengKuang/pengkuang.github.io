@@ -9,6 +9,7 @@ profile:
   image: prof_pic_unimelb.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>This photo is touched by AI:)</p>
     <p>kap.kuang at gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
