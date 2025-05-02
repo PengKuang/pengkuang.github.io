@@ -29,3 +29,17 @@ Like other sciences and engineering disciplines, software engineering requires a
 The purpose of Experimentation in Software Engineering is to introduce students, teachers, researchers, and practitioners to empirical studies in software engineering, using controlled experiments. The introduction to experimentation is provided through a process perspective, and the focus is on the steps that we have to go through to perform an experiment. The book is divided into three parts. The first part provides a background of theories and methods used in experimentation. Part II then devotes one chapter to each of the five experiment steps: scoping, planning, execution, analysis, and result presentation. Part III completes the presentation with two examples. Assignments and statistical material are provided in appendixes. Overall the book provides indispensable information regarding empirical studies in particular for experiments, but also for case studies, systematic literature reviews, and surveys. It is a revision of the authors’ book, which was published in 2000. In addition, substantial new material, e.g. concerning systematic literature reviews and case study research, is introduced.
 
 The book is self-contained and it is suitable as a course book in undergraduate or graduate studies where the need for empirical studies in software engineering is stressed. Exercises and assignments are included to combine the more theoretical material with practical aspects. Researchers will also benefit from the book, learning more about how to conduct empirical studies, and likewise practitioners may use it as a “cookbook” when evaluating new methods or techniques before implementing them in their organization.
+
+---
+
+CLAES WOHLIN is a professor of software engineering at Blekinge Institute of Technology. His research interests include empirical methods in software engineering, software processes and software quality. He is a member of the Royal Swedish Academy of Engineering Sciences and a senior member of the IEEE.
+
+PER RUNESON is a professor of software engineering at Lund University. His research interests include empirical research on software testing and quality, and methods for such research. Prior to this, he worked as a consulting expert in industry, and he is a senior member of the IEEE.
+
+MARTIN HÖST is a professor of software engineering at Lund University. His research interests include software quality and software process improvement, as well as empirical research methods in software engineering.
+
+MAGNUS C. OHLSSON is a quality assurance specialist at System Verification AB in Malmö, focusing on process improvement. His primary field of interest is verification andvalidation, with an emphasis on achieving proper quality efficiently throughout every step of the development process.
+
+BJÖRN REGNELL is a professor of software engineering at Lund University. His research interests include software requirement engineering, software product management, and empirical research on software engineering.
+
+ANDERS WESSLÉN is a senior system architect at ST-Ericsson in Lund. His focus is on system-wide architectures, as well as system design and requirements.
