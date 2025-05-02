@@ -77,7 +77,12 @@ ninja.data = [{
           title: '天使升华在空中 （Sublimation Angels）',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/1_sublimation_angels/";
+              window.location.href = "/books/0_sublimation_angels/";
+            },},{id: "books-experimentation-in-software-engineering",
+          title: 'Experimentation in Software Engineering',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/1_experiment_SE/";
             },},{id: "books-the-programmer-39-s-brain",
           title: 'The Programmer&amp;#39;s Brain',
           description: "",
