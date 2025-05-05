@@ -73,7 +73,12 @@ ninja.data = [{
             window.location.href = "/blog/2025/cooking-mix/";
           
         },
-      },{id: "books-天使升华在空中-sublimation-angels",
+      },{id: "books-concepts-of-programming-languages",
+          title: 'Concepts of Programming Languages）',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/01_prog_lang/";
+            },},{id: "books-天使升华在空中-sublimation-angels",
           title: '天使升华在空中 （Sublimation Angels）',
           description: "",
           section: "Books",handler: () => {
