@@ -3,7 +3,6 @@ layout: book-review
 title: Welcome Home
 subtitle: A Guide to Building a Home for Your Soul
 author: Najwa Zebian
-cover:
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780593231753 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: PersonalDevelopment Psychology MentalHealth Psychology Spirituality Self Help

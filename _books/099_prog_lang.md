@@ -2,7 +2,6 @@
 layout: book-review
 title: Concepts of Programming Languages）
 author: Robert W. Sebesta
-cover:
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781292100555 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: ComputerScience ProgrammingLanguage
