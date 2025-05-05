@@ -5,7 +5,7 @@ author: Robert W. Sebesta
 cover:
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781292100555 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: sci-fi universe alien future
+categories: ComputerScience ProgrammingLanguage
 tags: computerscience programminglanguage
 buy_link: https://www.studentapan.se/kurslitteratur/concepts-of-programming-languages-9781292100555?gad_source=1&gad_campaignid=17428454333&gbraid=0AAAAADfNPoteb9Qqh5GkwuOUU2cTlPfc5&gclid=Cj0KCQjww-HABhCGARIsALLO6XwygSE9WeymVHZPhM8bOJlkde2BnWNpm_XX928mk1YYKrhr86S8zhwaAoZ_EALw_wcB
 started: 2024-01-01

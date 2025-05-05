@@ -8,7 +8,7 @@ cover:
 isbn: 9780593231753 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: PersonalDevelopment Psychology MentalHealth Psychology Spirituality Self Help
 tags: PersonalDevelopment programminglanguage
-buy_link: https://www.studentapan.se/kurslitteratur/concepts-of-programming-languages-9781292100555?gad_source=1&gad_campaignid=17428454333&gbraid=0AAAAADfNPoteb9Qqh5GkwuOUU2cTlPfc5&gclid=Cj0KCQjww-HABhCGARIsALLO6XwygSE9WeymVHZPhM8bOJlkde2BnWNpm_XX928mk1YYKrhr86S8zhwaAoZ_EALw_wcB
+buy_link: https://www.amazon.se/Welcome-Home-Guide-Building-Your/dp/1473699991/ref=asc_df_1473699991?mcid=dbde544827a33bcf9dd045733b1f730a&tag=shpngadsglede-21&linkCode=df0&hvadid=719734874323&hvpos=&hvnetw=g&hvrand=838068381913699372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1012442&hvtargid=pla-1236757880350&psc=1&language=sv_SE&gad_source=1
 started: 2022-01-01
 finished: 2023-10-01
 released: 2021
