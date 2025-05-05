@@ -73,31 +73,36 @@ ninja.data = [{
             window.location.href = "/blog/2025/cooking-mix/";
           
         },
-      },{id: "books-concepts-of-programming-languages",
-          title: 'Concepts of Programming Languages）',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/01_prog_lang/";
-            },},{id: "books-天使升华在空中-sublimation-angels",
+      },{id: "books-天使升华在空中-sublimation-angels",
           title: '天使升华在空中 （Sublimation Angels）',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/0_sublimation_angels/";
+              window.location.href = "/books/000_sublimation_angels/";
+            },},{id: "books-welcome-home",
+          title: 'Welcome Home',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/001_welcome_home/";
+            },},{id: "books-concepts-of-programming-languages",
+          title: 'Concepts of Programming Languages）',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/099_prog_lang/";
             },},{id: "books-experimentation-in-software-engineering",
           title: 'Experimentation in Software Engineering',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/1_experiment_SE/";
+              window.location.href = "/books/100_experiment_SE/";
             },},{id: "books-the-programmer-39-s-brain",
           title: 'The Programmer&amp;#39;s Brain',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/2_programmer_brain/";
+              window.location.href = "/books/102_programmer_brain/";
             },},{id: "books-academic-teaching",
           title: 'Academic Teaching',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/3_academic_teaching/";
+              window.location.href = "/books/103_academic_teaching/";
             },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
           title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
