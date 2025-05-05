@@ -84,7 +84,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/001_welcome_home/";
             },},{id: "books-concepts-of-programming-languages",
-          title: 'Concepts of Programming Languages）',
+          title: 'Concepts of Programming Languages',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/099_prog_lang/";
