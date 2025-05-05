@@ -32,11 +32,12 @@ Miscellaneous pictures
 <div class="caption">
     Dishes I recently made. The spicy chicken was cooked by a friend. 
 </div>
-<div>
-    <div class="col-sm10 mt-3 mt-md-0">
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cooking/ICA_lunch.JPG" title="ICA food" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The ICA supermarket near my workplace offers the best (yet healthy) lunch at affordable price.
+    The ICA supermarket near my workplace offers the best (and healthy) lunch at affordable price.
 </div>
