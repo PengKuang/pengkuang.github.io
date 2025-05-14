@@ -1,6 +1,7 @@
 ---
 layout: book-review
-title: Eye Tracking - A comprehensive guide to methods and measures
+title: Eye Tracking
+subtitle: A comprehensive guide to methods and measures
 author: Kenneth Holmqvist, Marcus Nystrom, Richard Andersson, Richard Dewhurst, Halszka Jarodzka, Joost Van De Weijer
 cover: assets/img/book_covers/eye-tracking.png
 # olid: # use Open Library ID to fetch cover (if no `cover` is provided)

@@ -5,13 +5,13 @@ author: Claes Wohlin, Per Runeson, Martin Höst, Magnus C. Ohlsson, Björn Regne
 cover: assets/img/book_covers/empirical-SE.JPG
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 3642290434 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: higher education academia teaching
+categories: highereducation academia teaching
 tags: casestudydesign empiricalsoftwareengineering experimentanalysis experimentdesign experimentprocess experimentation measurement
 buy_link: https://www.amazon.se/-/en/Claes-Wohlin/dp/3642290434
 started: 2024-01-01
 finished:
 released: 2024
-stars: 5
+stars: 4.5
 # goodreads_review: 6318556633
 status: Finished
 ---
