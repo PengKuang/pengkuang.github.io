@@ -58,6 +58,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-donation",
+          title: "donation",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/donation/";
+          },
         },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
         
           title: "Can we make reading code easier with eye tracking?",
