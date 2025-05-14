@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-bio",
+          title: "bio",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bio/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
@@ -83,8 +90,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/001_welcome_home/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-eye-tracking-a-comprehensive-guide-to-methods-and-measures",
+          title: 'Eye Tracking - A comprehensive guide to methods and measures',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/002_eyetracking_guide/";
