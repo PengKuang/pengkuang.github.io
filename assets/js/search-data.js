@@ -90,8 +90,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/001_welcome_home/";
-            },},{id: "books-eye-tracking-a-comprehensive-guide-to-methods-and-measures",
-          title: 'Eye Tracking - A comprehensive guide to methods and measures',
+            },},{id: "books-eye-tracking",
+          title: 'Eye Tracking',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/002_eyetracking_guide/";
