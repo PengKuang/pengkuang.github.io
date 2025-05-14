@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/001_welcome_home/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/002_eyetracking_guide/";
             },},{id: "books-concepts-of-programming-languages",
           title: 'Concepts of Programming Languages',
           description: "",
