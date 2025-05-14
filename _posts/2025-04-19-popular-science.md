@@ -5,6 +5,7 @@ date: 2025-04-19 11:36:00
 description: popular science style article
 tags: popular science
 categories: work
+thumbnail: assets/img/posts/cover-gaze.jpg
 citation: false
 ---
 
