@@ -122,6 +122,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/103_academic_teaching/";
+            },},{id: "books-developmental-cognitive-neuroscience",
+          title: 'Developmental Cognitive Neuroscience',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/104_cognitive_neuroscience/";
             },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
           title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
