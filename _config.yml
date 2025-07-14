@@ -211,9 +211,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
-  - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-toc
 
 # Sitemap settings
 defaults:
