@@ -9,14 +9,13 @@ thumbnail: assets/img/posts/cover-gaze.jpg
 citation: false
 ---
 
+8 minute read
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mb-3">
     {% include figure.liquid path="assets/img/posts/cover-gaze.jpg" class="img-fluid rounded" %}
     </div>
 </div>
-# Can we make reading code easier with eye tracking?
-
-Peng Kuang
 
 Reading code is time-consuming for software engineers and therefore costs a lot of money. A study at Lund University is investigating technologies to shorten the time needed for it. Eye tracking is one of the solutions that hopefully can achieve that.
 
@@ -39,7 +38,7 @@ Similar to how we compose texts in natural languages, code can be written as sho
 In general, code is deemed difficult to understand. On the high level, the reason is twofold. Intrinsically, the syntax can be cognitively demanding to understand sometimes, especially if the programming language is poorly designed. Extrinsically, as the volume of code increases, so does its complexity. Therefore, it requires more cognitive effort to make sense of it. This is pronounced when the code is poorly written. For instance, the code style is inconsistent (software development usually involves many programmers writing different parts of the code nowadays), and/or the architecture is not well-designed such that different parts of code are entangled like spaghetti. Anecdotally, spaghetti code are not uncommon in the industry as businesses tend to prioritize delivery over perfect code.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mb-3">
+    <div class="col-sm-6 mb-3">
     {% include figure.liquid path="assets/img/posts/spaghetti-code.png" class="img-fluid rounded" %}
     </div>
 </div>
@@ -55,7 +54,7 @@ Many tools have been developed to mitigate the impact of these two factors, but 
 In our study, we deal with the presentation layer of the problem. That is, to focus on reducing programmers’ time spent navigating to the files (similar to the pages of a book) and searching for the relevant lines of code when working on a large codebase. Our approach does not care much about how the code functions.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mb-3">
+    <div class="col-sm-6 mb-3">
     {% include figure.liquid path="assets/img/posts/tobii-eye-tracker.png" class="img-fluid rounded" %}
     </div>
 </div>
