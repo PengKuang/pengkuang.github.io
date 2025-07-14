@@ -1,6 +1,15 @@
-<div id="chatbot-widget" style="position: fixed; bottom: 1rem; right: 1rem; width: 300px; background: #fff; border: 1px solid #ccc; border-radius: 0.5rem; padding: 1rem; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 9999;">
+<div
+  id="chatbot-widget"
+  style="position: fixed; bottom: 1rem; right: 1rem; width: 300px; background: #fff; border: 1px solid #ccc; border-radius: 0.5rem; padding: 1rem; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 9999;"
+>
   <div id="chat-log" style="max-height:200px; overflow-y:auto; font-size:0.9rem;"></div>
-  <input id="user-input" type="text" placeholder="Ask me anything..." style="width:100%; margin-top:0.5rem; padding:0.5rem;" onkeypress="if(event.key==='Enter'){sendMessage()}">
+  <input
+    id="user-input"
+    type="text"
+    placeholder="Ask me anything..."
+    style="width:100%; margin-top:0.5rem; padding:0.5rem;"
+    onkeypress="if(event.key==='Enter'){sendMessage()}"
+  >
 </div>
 
 <script src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
