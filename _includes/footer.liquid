@@ -16,6 +16,7 @@
     <div class="container mt-0">
       {{ footer_contents }}
     </div>
+    {% include chatbot.liquid %}
   </footer>
 {% else %}
   <footer class="sticky-bottom mt-5" role="contentinfo">
@@ -26,5 +27,6 @@
     <div class="container">
       {{ footer_contents }}
     </div>
+    {% include chatbot.liquid %}
   </footer>
 {% endif %}
