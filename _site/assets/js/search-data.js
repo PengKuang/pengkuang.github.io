@@ -1,0 +1,210 @@
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-bio",
+          title: "bio",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bio/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "The courses that I have been assisting with and the master and bachelor theses that I have supervised.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-books",
+          title: "books",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "The public version of my CV.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-donation",
+          title: "donation",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/donation/";
+          },
+        },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
+        
+          title: "Can we make reading code easier with eye tracking?",
+        
+        description: "popular science style article",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/popular-science/";
+          
+        },
+      },{id: "post-a-mix-of-cooking-pics",
+        
+          title: "A mix of cooking pics",
+        
+        description: "a mix of cooking pics",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cooking-mix/";
+          
+        },
+      },{id: "books-天使升华在空中-sublimation-angels",
+          title: '天使升华在空中 （Sublimation Angels）',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/000_sublimation_angels/";
+            },},{id: "books-welcome-home",
+          title: 'Welcome Home',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/001_welcome_home/";
+            },},{id: "books-eye-tracking",
+          title: 'Eye Tracking',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/002_eyetracking_guide/";
+            },},{id: "books-concepts-of-programming-languages",
+          title: 'Concepts of Programming Languages',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/099_prog_lang/";
+            },},{id: "books-experimentation-in-software-engineering",
+          title: 'Experimentation in Software Engineering',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/100_experiment_SE/";
+            },},{id: "books-the-programmer-39-s-brain",
+          title: 'The Programmer&amp;#39;s Brain',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/102_programmer_brain/";
+            },},{id: "books-academic-teaching",
+          title: 'Academic Teaching',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/103_academic_teaching/";
+            },},{id: "books-developmental-cognitive-neuroscience",
+          title: 'Developmental Cognitive Neuroscience',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/104_cognitive_neuroscience/";
+            },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
+          title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
+          description: "",
+          section: "News",},{id: "news-i-spent-a-pleasant-month-with-my-mom-and-family-in-my-hometown-chenzhou-hunan-cn-deciduous-tree-sunny-heart",
+          title: 'I spent a pleasant month with my mom and family in my hometown...',
+          description: "",
+          section: "News",},{id: "news-i-joined-the-wasp-study-trip-to-the-silicon-valley-ca-usa",
+          title: 'I joined the WASP study trip to the silicon valley, CA, USA',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-amp-vl-2024-in-liverpool-uk",
+          title: 'I gave a presentation at PPIG/HCC &amp;amp;amp; VL 2024 in Liverpool, UK',
+          description: "",
+          section: "News",},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
+          title: 'I started visiting the PEACH lab at ETH Zurich :snowman: :snowflake:',
+          description: "",
+          section: "News",},{id: "projects-adaptive-developer-tools",
+          title: 'Adaptive Developer Tools',
+          description: "ADAPT2",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_adapt/";
+            },},{id: "projects-posters",
+          title: 'posters',
+          description: "visual creativity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_posters/";
+            },},{id: "projects-videos",
+          title: 'videos',
+          description: "oral presentations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_videos/";
+            },},{id: "projects-baking",
+          title: 'baking',
+          description: "sweet life",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_baking/";
+            },},{id: "projects-cooking",
+          title: 'cooking',
+          description: "soul food",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_cooking/";
+            },},{id: "projects-gazing-at-code-review",
+          title: 'Gazing at Code Review',
+          description: "Gander",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_gander/";
+            },},{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/pengkuang", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/pengkuang", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-7029-5655", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Peng-Kuang-2/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=QDUM9CIAAAAJ", "_blank");
+        },
+      },];
