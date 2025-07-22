@@ -1,4 +1,4 @@
-This website is customized from the alfolio template.
+This website is customized from the [alfolio](https://github.com/al-folio/al-folio.github.io) template.
 
 ## License
 
