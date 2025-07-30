@@ -641,31 +641,54 @@
     </div>
     <!-- Add your SVG for the cursor effect here -->
 <svg width="100%" height="100%" style="position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999;">
-    <defs>
-    <filter id="goo">
-        <!-- Increase stdDeviation for more blur/merging -->
-        <fegaussianblur in="SourceGraphic" stddeviation="30" result="blur"></fegaussianblur>
-        <!-- Adjust values for merging effect (usually involves the 4th column for alpha) -->
-        <!-- Values: R G B A 0 (for input image R) ... (for input image A) offset -->
-        <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -8" result="goo"></fecolormatrix>
-        <feblend in="SourceGraphic" in2="goo"></feblend>
-    </filter>
-    </defs>
+  <defs>
+  <filter id="goo">
+      <!-- Increase stdDeviation for more blur/merging -->
+      <fegaussianblur in="SourceGraphic" stddeviation="30" result="blur"></fegaussianblur>
+      <!-- Adjust values for merging effect (usually involves the 4th column for alpha) -->
+      <!-- Values: R G B A 0 (for input image R) ... (for input image A) offset -->
+      <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -8" result="goo"></fecolormatrix>
+      <feblend in="SourceGraphic" in2="goo"></feblend>
+  </filter>
+  </defs>
 
-    <g id="goo-container" filter="url(#goo)">
-    <!-- Multiple circles for a more fluid trail -->
-    <circle class="cursor-bubble" r="20" fill="rgba(135, 222, 239, 0.5)"></circle>
-    <circle class="cursor-bubble" r="17" fill="rgba(135, 222, 239, 0.4)"></circle>
-    <circle class="cursor-bubble" r="12" fill="rgba(135, 222, 239, 0.35)"></circle>
-    <circle class="cursor-bubble" r="8" fill="rgba(135, 222, 239, 0.3)"></circle>
-    <circle class="cursor-bubble" r="5" fill="rgba(135, 222, 239, 0.25)"></circle>
-    <!-- Add more circles for a longer/smoother trail -->
-    </g>
+  <g id="goo-container" filter="url(#goo)">
+  <!-- Multiple circles for a more fluid trail -->
+  <circle class="cursor-bubble" r="20" fill="rgba(135, 222, 239, 0.5)"></circle>
+  <circle class="cursor-bubble" r="17" fill="rgba(135, 222, 239, 0.4)"></circle>
+  <circle class="cursor-bubble" r="12" fill="rgba(135, 222, 239, 0.35)"></circle>
+  <circle class="cursor-bubble" r="8" fill="rgba(135, 222, 239, 0.3)"></circle>
+  <circle class="cursor-bubble" r="5" fill="rgba(135, 222, 239, 0.25)"></circle>
+  <!-- Add more circles for a longer/smoother trail -->
+  </g>
 </svg>
 
 <!-- Include your custom JavaScript file -->
 <script src="/assets/js/cursor-effect.js"></script>
 
+    <!-- Cherry Blossom Cursor Trail -->
+<svg width="100%" height="100%" style="position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999;">
+  <defs>
+    <filter id="goo">
+      <fegaussianblur in="SourceGraphic" stddeviation="30" result="blur"></fegaussianblur>
+      <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  
+                0 1 0 0 0  
+                0 0 1 0 0  
+                0 0 0 18 -8" result="goo"></fecolormatrix>
+      <feblend in="SourceGraphic" in2="goo"></feblend>
+    </filter>
+
+    <!-- Single petal shape -->
+    <path id="petal" d="M50,20 C55,10 65,10 70,20 C65,30 55,30 50,20 Z" fill="rgba(255, 182, 193, 0.6)"></path>
+  </defs>
+
+  <g id="goo-container" filter="url(#goo)">
+    <!-- Petals will be dynamically added here -->
+  </g>
+</svg>
+
+<!-- Include your custom JavaScript file -->
+<script src="/assets/js/cursor-flower.js"></script>
     <!-- Footer -->
     
 
