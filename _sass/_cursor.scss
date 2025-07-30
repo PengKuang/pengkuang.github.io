@@ -1,0 +1,27 @@
+// // Cursor blob
+// #cursor-blob {
+//       width: 50px; /* Adjust size as needed */
+//       height: 30px; /* Adjust size as needed */
+//       background-color: rgba(135, 222, 239, 0.5); /* Example color with some transparency */
+//       border-radius: 25%; /* For a circular blob */
+//       position: fixed;
+//       top: 0;
+//       left: 0;
+//       pointer-events: none; /* Allows clicking through the blob */
+//       transform: translate(-50%, -50%); /* Centers the blob on the cursor */
+//       transition: transform 0.01s ease-out, left 0.01s ease-out, top 0.01s ease-out; /* Smooth transition */
+//       z-index: 9999; /* Ensure it's on top */
+// }
+
+body,
+* {
+  cursor: none; /* Hide the default browser cursor */
+}
+
+/* Optional: Style for interactive elements if you need the default cursor back */
+a,
+button,
+input[type="text"],
+textarea {
+  cursor: auto !important; /* Show the default cursor over these elements */
+}

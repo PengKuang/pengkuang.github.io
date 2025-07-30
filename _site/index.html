@@ -446,7 +446,7 @@
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<p>I’m a WASP-affiliated Ph.D. student in Computer Science, advised by <a href="https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg" rel="external nofollow noopener" target="_blank">A/Prof. Emma Söderberg</a>, <a href="https://mau.se/personer/martin.host/" rel="external nofollow noopener" target="_blank">Prof. Martin Höst</a>, and <a href="https://portal.research.lu.se/en/persons/diederick-c-niehorster" rel="external nofollow noopener" target="_blank">Dr. Diederick C. Niehorster</a>. My research focuses on the intersection of <strong>eye tracking</strong>, <strong>machine learning</strong>, and <strong>programming systems</strong> (or developer tools), with influences from software engineering and design science. In addition, I’m interested in computational cognition &amp; neuroscience, brain-machine interface, VR/XR, and quantum computing.</p>
+<p>I’m a WASP-affiliated Ph.D. student in Computer Science, advised by <a href="https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg" rel="external nofollow noopener" target="_blank">A/Prof. Emma Söderberg</a>, <a href="https://mau.se/personer/martin.host/" rel="external nofollow noopener" target="_blank">Prof. Martin Höst</a>, and <a href="https://portal.research.lu.se/en/persons/diederick-c-niehorster" rel="external nofollow noopener" target="_blank">Dr. Diederick C. Niehorster</a>. My research focuses on the intersection of <strong>eye tracking</strong>, <strong>machine learning</strong>, and <strong>programming systems</strong> (or developer tools), with influences from software engineering and design science. In addition, I’m interested in computational cognition &amp; neuroscience, brain-machine interface/HCI, VR/XR, and quantum computing.</p>
 
 <p>I did my Master of Information Technology at The University of Melbourne where I worked as a RA for <a href="https://findanexpert.unimelb.edu.au/profile/3747-shanton-chang" rel="external nofollow noopener" target="_blank">Prof. Shanton Chang</a>. My master thesis was supervised by <a href="https://findanexpert.unimelb.edu.au/profile/13376-leon-sterling" rel="external nofollow noopener" target="_blank">Prof. Leon Sterling</a> and <a href="https://findanexpert.unimelb.edu.au/profile/6868-antonette-mendoza" rel="external nofollow noopener" target="_blank">A/Prof. Antonette Mendoza</a>. Before that, I was studying at Monash University. I was awarded the International Merit Scholarship by the Falcuty of Information Technology and received my Graduate Certificate in IT there.</p>
 
@@ -1313,6 +1313,32 @@ For future work, we plan to practice designing with programmers to develop and e
 
       
     </div>
+    <!-- Add your SVG for the cursor effect here -->
+<svg width="100%" height="100%" style="position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999;">
+    <defs>
+    <filter id="goo">
+        <!-- Increase stdDeviation for more blur/merging -->
+        <fegaussianblur in="SourceGraphic" stddeviation="30" result="blur"></fegaussianblur>
+        <!-- Adjust values for merging effect (usually involves the 4th column for alpha) -->
+        <!-- Values: R G B A 0 (for input image R) ... (for input image A) offset -->
+        <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -8" result="goo"></fecolormatrix>
+        <feblend in="SourceGraphic" in2="goo"></feblend>
+    </filter>
+    </defs>
+
+    <g id="goo-container" filter="url(#goo)">
+    <!-- Multiple circles for a more fluid trail -->
+    <circle class="cursor-bubble" r="20" fill="rgba(135, 222, 239, 0.5)"></circle>
+    <circle class="cursor-bubble" r="17" fill="rgba(135, 222, 239, 0.4)"></circle>
+    <circle class="cursor-bubble" r="12" fill="rgba(135, 222, 239, 0.35)"></circle>
+    <circle class="cursor-bubble" r="8" fill="rgba(135, 222, 239, 0.3)"></circle>
+    <circle class="cursor-bubble" r="5" fill="rgba(135, 222, 239, 0.25)"></circle>
+    <!-- Add more circles for a longer/smoother trail -->
+    </g>
+</svg>
+
+<!-- Include your custom JavaScript file -->
+<script src="/assets/js/cursor-effect.js"></script>
 
     <!-- Footer -->
     

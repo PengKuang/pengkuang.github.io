@@ -18,6 +18,6 @@ async function sendMessage() {
     log.innerHTML += `<div><strong>Bot:</strong> ${reply}</div>`;
     log.scrollTop = log.scrollHeight;
   } catch (e) {
-    log.innerHTML += `<div style="color:red"><strong>Error:</strong> Chatbot unavailable.</div>`;
+    log.innerHTML += `<div style="color:red"><strong>Error:</strong> Chatbot unavailable, maximum limit reached.</div>`;
   }
 }
