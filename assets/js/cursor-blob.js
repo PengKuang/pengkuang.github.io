@@ -1,0 +1,1 @@
+document.addEventListener("mousemove",(function(e){const t=document.getElementById("cursor-blob");t&&(t.style.left=e.clientX+"px",t.style.top=e.clientY+"px")}));
