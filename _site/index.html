@@ -1328,11 +1328,9 @@ For future work, we plan to practice designing with programmers to develop and e
 
   <g id="goo-container" filter="url(#goo)">
   <!-- Multiple circles for a more fluid trail -->
-  <circle class="cursor-bubble" r="20" fill="rgba(135, 222, 239, 0.5)"></circle>
-  <circle class="cursor-bubble" r="17" fill="rgba(135, 222, 239, 0.4)"></circle>
-  <circle class="cursor-bubble" r="12" fill="rgba(135, 222, 239, 0.35)"></circle>
-  <circle class="cursor-bubble" r="8" fill="rgba(135, 222, 239, 0.3)"></circle>
-  <circle class="cursor-bubble" r="5" fill="rgba(135, 222, 239, 0.25)"></circle>
+  <circle class="cursor-bubble" r="20" fill="rgba(203, 239, 255, 0.4)"></circle>
+  <circle class="cursor-bubble" r="20" fill="rgba(210, 253, 250, 0.4)"></circle>
+
   <!-- Add more circles for a longer/smoother trail -->
   </g>
 </svg>
@@ -1345,9 +1343,9 @@ For future work, we plan to practice designing with programmers to develop and e
   <defs>
     <filter id="goo">
       <fegaussianblur in="SourceGraphic" stddeviation="30" result="blur"></fegaussianblur>
-      <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  
-                0 1 0 0 0  
-                0 0 1 0 0  
+      <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
                 0 0 0 18 -8" result="goo"></fecolormatrix>
       <feblend in="SourceGraphic" in2="goo"></feblend>
     </filter>
@@ -1363,6 +1361,7 @@ For future work, we plan to practice designing with programmers to develop and e
 
 <!-- Include your custom JavaScript file -->
 <script src="/assets/js/cursor-flower.js"></script>
+
     <!-- Footer -->
     
 

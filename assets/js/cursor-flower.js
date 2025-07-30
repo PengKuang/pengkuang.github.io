@@ -19,10 +19,10 @@ document.addEventListener("DOMContentLoaded", function () {
       el: use,
       x: Math.random() * window.innerWidth,
       y: Math.random() * window.innerHeight,
-      speedY: 1 + Math.random() * 1.5,
-      driftX: (Math.random() - 0.5) * 1.5,
+      speedY: 0.1 + Math.random() * 1.5,
+      driftX: (Math.random() - 0.5) * 1.0,
       angle: Math.random() * 360,
-      rotationSpeed: (Math.random() - 0.5) * 1,
+      rotationSpeed: (Math.random() - 0.5) * 0.25,
     });
   }
 
