@@ -22,7 +22,7 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 
 **Conclusion:** In summary, our work comprises a series of systematic, evidence-based studies grounded in the theory of participatory design. It provides fine-grained evidence that both corroborates and extends findings regarding the use of gaze as a tool to support programmers. Moreover, it aligns with the growing importance of gaze as a communication medium for intelligent human–AI collaboration in future Software Engineering.
 
-### Inclued Papers
+### Included Papers
 
 | Item &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title                                                                                                            |      Status      |                                                             Link |
 | :---------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :--------------: | ---------------------------------------------------------------: |
@@ -34,9 +34,9 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 
 ### Supervisors
 
-- [A/Prof. Emma Söderberg](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
-- [Prof. Martin Höst](https://mau.se/personer/martin.host/)
-- [Dr. Diederick C. Niehorster](https://portal.research.lu.se/en/persons/diederick-c-niehorster).
+- [Emma Söderberg](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
+- [Martin Höst](https://mau.se/personer/martin.host/)
+- [Diederick C. Niehorster](https://portal.research.lu.se/en/persons/diederick-c-niehorster).
 
 ### Opponent & Committee Members
 
