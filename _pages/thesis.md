@@ -24,13 +24,13 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 
 ### Included Papers
 
-| Item &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title                                                                                                            |      Status      |                                                             Link |
-| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :--------------: | ---------------------------------------------------------------: |
-| Paper I                             | Toward Gaze-assisted Developer Tools                                                                             |    Published     |               [Click to read](10.1109/icse-nier58687.2023.00015) |
-| Paper II                            | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |    Published     |                         [Click to read](10.1145/3588015.3589190) |
-| Paper III                           | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |                         [Click to read](10.1145/3660829.3660848) |
-| Paper IV                            | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     | [Click to read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
-| Paper V                             | GazePrinter: Gaze Communication for First-time Codebase Comprehension, A Controlled Experiment                   | Work in Progress |                                                   Available soon |
+| Item &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title                                                                                                            |      Status      |                                                    Link |
+| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :--------------: | ------------------------------------------------------: |
+| Paper I                             | Toward Gaze-assisted Developer Tools                                                                             |    Published     |               [Read](10.1109/icse-nier58687.2023.00015) |
+| Paper II                            | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |    Published     |                         [Read](10.1145/3588015.3589190) |
+| Paper III                           | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |                         [Read](10.1145/3660829.3660848) |
+| Paper IV                            | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     | [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
+| Paper V                             | GazePrinter: Gaze Communication for First-time Codebase Comprehension, A Controlled Experiment                   | Work in Progress |                                          Available soon |
 
 ### Supervisors
 
