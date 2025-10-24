@@ -14,7 +14,6 @@ function lerp(a, b, n) {
 }
 
 function animate() {
-
   // Smooth follow
   lastX = lerp(lastX, mouseX, 0.15);
   lastY = lerp(lastY, mouseY, 0.15);
@@ -28,7 +27,6 @@ function animate() {
 
   // Apply rotation around center
   svg.style.transform = `translate(${lastX - baseWidth / 2}px, ${lastY - baseHeight / 2}px) rotate(${deg}deg)`;
-
 
   // Calculate velocity
   const dx = mouseX - lastX;
