@@ -393,7 +393,7 @@
       <table class="table table-sm table-borderless">
         
           <tr>
-            <th scope="row">Jul 30, 2025</th>
+            <th scope="row">Aug 02, 2025</th>
             <td>
               
                 <a class="post-link" href="/books/002_eyetracking_guide/">Eye Tracking</a>
@@ -408,27 +408,12 @@
 
       
     </div>
-    <!-- Add your SVG for the cursor effect here -->
-<svg width="100%" height="100%" style="position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999;">
-  <defs>
-  <filter id="goo">
-      <!-- Increase stdDeviation for more blur/merging -->
-      <fegaussianblur in="SourceGraphic" stddeviation="30" result="blur"></fegaussianblur>
-      <!-- Adjust values for merging effect (usually involves the 4th column for alpha) -->
-      <!-- Values: R G B A 0 (for input image R) ... (for input image A) offset -->
-      <fecolormatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -8" result="goo"></fecolormatrix>
-      <feblend in="SourceGraphic" in2="goo"></feblend>
-  </filter>
-  </defs>
-
-  <g id="goo-container" filter="url(#goo)">
-  <!-- Multiple circles for a more fluid trail -->
-  <circle class="cursor-bubble" r="20" fill="rgba(203, 239, 255, 0.4)"></circle>
-  <circle class="cursor-bubble" r="20" fill="rgba(210, 253, 250, 0.4)"></circle>
-
-  <!-- Add more circles for a longer/smoother trail -->
-  </g>
+    <svg id="cursor-bubble-svg" width="100" height="80" style="position:fixed; pointer-events:none; z-index:9999; left:0; top:0;">
+  <rect id="blob-rect" x="0" y="0" width="100" height="80" rx="20" ry="20" fill="rgba(203, 239, 255, 0.4)"></rect>
 </svg>
+
+<!-- Trail blobs -->
+<div id="blob-trail"></div>
 
 <!-- Include your custom JavaScript file -->
 <script src="/assets/js/cursor-effect.js"></script>

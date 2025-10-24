@@ -1,63 +1,61 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const gooContainer = document.getElementById("goo-container");
-  if (!gooContainer) return; // Exit if the container isn't found
+const svg = document.getElementById("cursor-bubble-svg");
+const blob = document.getElementById("blob-rect");
 
-  const bubbles = gooContainer.querySelectorAll(".cursor-bubble");
-  if (bubbles.length === 0) return; // Exit if no bubbles are found
+let lastX = window.innerWidth / 2;
+let lastY = window.innerHeight / 2;
+let mouseX = lastX;
+let mouseY = lastY;
 
-  // Store the current target position for the first bubble (follows mouse)
-  let targetX = 0;
-  let targetY = 0;
+const baseWidth = 100;
+const baseHeight = 80;
 
-  // Store the current positions of each bubble for animation
-  const bubblePositions = [];
-  bubbles.forEach((bubble, index) => {
-    // Initialize positions off-screen or at a starting point
-    bubblePositions[index] = { x: -100, y: -100 };
-    // Set initial SVG attributes
-    bubble.setAttribute("cx", -100);
-    bubble.setAttribute("cy", -100);
-  });
+function lerp(a, b, n) {
+  return a + (b - a) * n;
+}
 
-  // --- Event Listener for Mouse Movement ---
-  document.addEventListener("mousemove", function (e) {
-    // Update the target position for the first bubble
-    targetX = e.clientX;
-    targetY = e.clientY;
+function animate() {
 
-    // Ensure bubbles become visible after first move
-    bubbles.forEach((bubble, index) => {
-      // You might set initial position here if you didn't above
-      if (bubble.getAttribute("cx") === "-100") {
-        // Simple check if still at initial off-screen pos
-        bubblePositions[index].x = targetX;
-        bubblePositions[index].y = targetY;
-      }
-    });
-  });
+  // Smooth follow
+  lastX = lerp(lastX, mouseX, 0.15);
+  lastY = lerp(lastY, mouseY, 0.15);
 
-  // --- Animation Loop ---
-  function animateBubbles() {
-    // Animate the first bubble towards the mouse target
-    bubblePositions[0].x += (targetX - bubblePositions[0].x) * 0.15; // Adjust 0.1 for speed
-    bubblePositions[0].y += (targetY - bubblePositions[0].y) * 0.15; // Adjust 0.1 for speed
+  // // Move the SVG blob
+  // svg.style.left = `${lastX - baseWidth / 2}px`;
+  // svg.style.top = `${lastY - baseHeight / 2}px`;
 
-    // Animate subsequent bubbles towards the previous bubble's position
-    for (let i = 1; i < bubblePositions.length; i++) {
-      bubblePositions[i].x += (bubblePositions[i - 1].x - bubblePositions[i].x) * 0.2; // Adjust 0.15 for speed/lag
-      bubblePositions[i].y += (bubblePositions[i - 1].y - bubblePositions[i].y) * 0.2; // Adjust 0.15 for speed/lag
-    }
+  const angle = Math.atan2(dy, dx); // In radians
+  const deg = angle * (180 / Math.PI); // Convert to degrees
 
-    // Update the SVG circle elements with the new positions
-    bubbles.forEach((bubble, index) => {
-      bubble.setAttribute("cx", bubblePositions[index].x);
-      bubble.setAttribute("cy", bubblePositions[index].y);
-    });
+  // Apply rotation around center
+  svg.style.transform = `translate(${lastX - baseWidth / 2}px, ${lastY - baseHeight / 2}px) rotate(${deg}deg)`;
 
-    // Request the next animation frame
-    requestAnimationFrame(animateBubbles);
-  }
 
-  // Start the animation loop
-  animateBubbles();
-}); // End DOMContentLoaded
+  // Calculate velocity
+  const dx = mouseX - lastX;
+  const dy = mouseY - lastY;
+  const velocity = Math.sqrt(dx * dx + dy * dy);
+
+  // Morph width/height based on velocity
+  const stretchFactor = Math.min(velocity * 0.5, 20);
+  const width = baseWidth + stretchFactor;
+  const height = baseHeight - stretchFactor;
+
+  const rx = Math.max(20, 40 - stretchFactor * 0.5);
+  const ry = rx;
+
+  // Apply new shape
+  blob.setAttribute("width", width);
+  blob.setAttribute("height", height);
+  blob.setAttribute("rx", rx);
+  blob.setAttribute("ry", ry);
+
+  requestAnimationFrame(animate);
+}
+
+animate();
+
+// Track mouse
+document.addEventListener("mousemove", (e) => {
+  mouseX = e.clientX;
+  mouseY = e.clientY;
+});
