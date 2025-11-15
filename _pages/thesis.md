@@ -9,6 +9,7 @@ nav_order: 2
 
 ## Building Intelligent, Gaze-aware Programming Environment for Better Accessibility, Interactivity, and Productivity
 
+
 ### Abstract
 
 **Background:** Code comprehension is a cognitively demanding Software Engineering (SE) task. Studies report that developers can spend up to 60% of their working hours reading code. For instance, software engineers newly onboarding at Google can take up to five months to become familiar with a new codebase and stabilize their productivity. Meanwhile, eye-tracking (ET) has been applied in empirical SE studies for decades. While it has contributed to understanding programmers’ gaze behavior and cognitive activities to some extent, only a few studies have explored integrating gaze-based assistance at a fine-grained level into the programming environment as a form of support. In particular, there lacks the employment of the participatory design approach, which emphasizes the perspectives of end-users from the early stages. Furthermore, the effectiveness of gaze-driven assistance has seldom been investigated with code stumuli at scale in a real-world programming environment
@@ -22,6 +23,7 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 
 **Conclusion:** In summary, our work comprises a series of systematic, evidence-based studies grounded in the theory of participatory design. It provides fine-grained evidence that both corroborates and extends findings regarding the use of gaze as a tool to support programmers. Moreover, it aligns with the growing importance of gaze as a communication medium for intelligent human–AI collaboration in future Software Engineering.
 
+
 ### Included Papers
 
 | Item &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title                                                                                                            |      Status      |                                                    Link |
@@ -32,11 +34,13 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 | Paper IV                                                    | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     | [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
 | Paper V                                                     | GazePrinter: Gaze Communication for First-time Codebase Comprehension, A Controlled Experiment                   | Work in Progress |                                          Available soon |
 
+
 ### Supervisors
 
 - [Emma Söderberg](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
 - [Martin Höst](https://mau.se/personer/martin.host/)
 - [Diederick C. Niehorster](https://portal.research.lu.se/en/persons/diederick-c-niehorster).
+
 
 ### Opponent & Committee Members
 
