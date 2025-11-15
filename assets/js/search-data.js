@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-thesis",
           title: "thesis",
-          description: "The papers to be included in my doctoral thesis.",
+          description: "The papers to be included in my doctoral dissertation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/thesis/";
@@ -94,7 +94,27 @@ ninja.data = [{
             window.location.href = "/blog/2025/cooking-mix/";
           
         },
-      },{id: "books-天使升华在空中-sublimation-angels",
+      },{id: "books-看见",
+          title: '看见',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/0001_kanjian/";
+            },},{id: "books-送你一颗子弹-send-you-a-bullet",
+          title: '送你一颗子弹 Send You A Bullet',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/0002_zidan/";
+            },},{id: "books-民主的细节-the-intricacies-of-democracy",
+          title: '民主的细节 The Intricacies of Democracy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/0003_democracy/";
+            },},{id: "books-观念的水位-the-waterline-of-thought",
+          title: '观念的水位 The Waterline of Thought',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/0004_literacy/";
+            },},{id: "books-天使升华在空中-sublimation-angels",
           title: '天使升华在空中 （Sublimation Angels）',
           description: "",
           section: "Books",handler: () => {
