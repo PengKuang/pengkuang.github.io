@@ -13,7 +13,7 @@ finished:
 released: 1997
 stars: 4.3
 # goodreads_review: 6318556633
-status: Reading
+status: Finished
 ---
 
 The third edition of Developmental Cognitive Neuroscience presents a thorough updating and enhancement of the classic text that introduced the rapidly expanding field of developmental cognitive neuroscience.

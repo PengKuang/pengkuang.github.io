@@ -14,7 +14,7 @@ finished:
 released: 2021
 stars: 4
 # goodreads_review: 6318556633
-status: Reading
+status: Finished
 ---
 
 Your brain responds in a predictable way when it encounters new or difficult tasks. This unique book teaches you concrete techniques rooted in cognitive science that will improve the way you learn and think about code.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /thesis/
 title: thesis
-description: The papers to be included in my doctoral thesis.
+description: The papers to be included in my doctoral dissertation.
 nav: true
 nav_order: 2
 ---
@@ -31,8 +31,7 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 | Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |                         [Read](10.1145/3660829.3660848) |
 | Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     | [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
 | Paper V   | GazePrinter: Gaze Communication for First-time Codebase Comprehension, A Controlled Experiment                   | Work in Progress |                                          Available soon |
-<br />
-<br />
+
 ### Supervisors
 
 - [Emma Söderberg (main supervisor)](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)

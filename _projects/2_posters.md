@@ -17,6 +17,7 @@ giscus_comments: true
             My research overview. Designed in the Communicating Research course.
         </div>
     </div>
+
 </div>
 <br/>
 
@@ -42,11 +43,19 @@ giscus_comments: true
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 d-flex flex-column align-items-center">
-        <div>
+        <div class="mb-3">
             {% include figure.liquid loading="eager" path="assets/img/posters/gp-eth-flyer.png" title="flyer" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="caption text-center mt-1">
             Participant recruitment flyer for the collaboration study at ETH Zurich.
         </div>
   </div>
+     <div class="col-sm-6 d-flex flex-column align-items-center">
+        <div class="mb-3">
+            {% include figure.liquid loading="eager" path="assets/img/posters/prog-tool-stack.png" title="the programming tool stack" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="caption text-center">
+            Poster for social media.
+        </div>
+    </div>
 </div>

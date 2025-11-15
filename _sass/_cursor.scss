@@ -90,10 +90,10 @@
 //   transition: all 0.3s ease;
 // }
 
-body,
-* {
-  cursor: none; /* Hide the default browser cursor */
-}
+// body,
+// * {
+//   cursor: none; /* Hide the default browser cursor */
+// }
 
 // body {
 //   background: linear-gradient(135deg, rgba(255, 255, 255, 0.1)c,rgba(255, 255, 255, 0.2));
@@ -101,9 +101,9 @@ body,
 // }
 
 /* Optional: Style for interactive elements if you need the default cursor back */
-a,
-button,
-input[type="text"],
-textarea {
-  cursor: auto !important; /* Show the default cursor over these elements */
-}
+// a,
+// button,
+// input[type="text"],
+// textarea {
+//   cursor: auto !important; /* Show the default cursor over these elements */
+// }
