@@ -20,7 +20,7 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 
 **Resulsts:** By consolidating studies in the areas of interest, we found that experiments were primarily conducted with toy code snippets and novice participants, and that ML techniques have been used to primarily predict programmer expertise and task difficulty in program comprehension contexts. Our survey revealed that code comprehension remains a major pain point among professional developers. Through co-designing solutions for this problem, we identified a promising opportunity for gaze-driven assistance, as programmers preferred it over voice-based support. Comparing the control and experimental groups to each other and to experts, we found that gaze-based assistance can influence programmers’ attention-distribution strategies, leading them to read fewer peripheral files and focus more effectively on relevant code.
 
-**Conclusion:** In summary, our work comprises a series of mixed-method, evidence-based studies grounded in the theory of participatory design. It provides fine-grained evidence that both corroborates and extends findings regarding the use of gaze as a tool to support programmers. Moreover, it aligns with the growing importance of gaze as a communication medium for intelligent human–AI collaboration in future Software Engineering.
+**Conclusion:** In summary, our work comprises a series of mixed-methods, evidence-based studies grounded in the theory of participatory design. It provides fine-grained evidence that both corroborates and extends findings regarding the use of gaze as a tool to support programmers. Moreover, it aligns with the growing importance of gaze as a communication medium for intelligent human–AI collaboration in future Software Engineering.
 
 ### Included Papers
 
@@ -31,12 +31,13 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 | Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |                         [Read](10.1145/3660829.3660848) |
 | Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     | [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
 | Paper V   | GazePrinter: Gaze Communication for First-time Codebase Comprehension, A Controlled Experiment                   | Work in Progress |                                          Available soon |
-
+<br />
+<br />
 ### Supervisors
 
-- [Emma Söderberg](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
-- [Martin Höst](https://mau.se/personer/martin.host/)
-- [Diederick C. Niehorster](https://portal.research.lu.se/en/persons/diederick-c-niehorster).
+- [Emma Söderberg (main supervisor)](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
+- [Martin Höst (co-supervisor)](https://mau.se/personer/martin.host/)
+- [Diederick C. Niehorster (co-supervisor)](https://portal.research.lu.se/en/persons/diederick-c-niehorster).
 
 ### Opponent & Committee Members
 
