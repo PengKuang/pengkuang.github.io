@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: 看见
+title: 看见 Insight
 author: 柴静 Chai Jing
 cover: assets/img/book_covers/cj_kan_jian.png
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)

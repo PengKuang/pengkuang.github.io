@@ -16,7 +16,7 @@ stars: 4.8
 status: Finished
 ---
 
-This book is a compilation of articles written by Liu Yu on the topic of American democracy.
+This book is a compilation of articles written by Liu Yu on the topic of American democracy. Liu Yu received her Ph.D. in political science from Columbia University and later did a postdoc at Harvard University. She is now a professor at Tsinghua University and was previously a lecturer at Cambridge University for a brief period.
 
 这本书是作者过去几年给一些期刊报纸写的专栏文章结集，其中主要是给《南方人物周刊》的文章。全书中以讲故事的形式，把“美国的民主”这样一个概念性的东西拆解成点点滴滴的事件、政策和人物去描述。
 

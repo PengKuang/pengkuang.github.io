@@ -94,8 +94,18 @@ ninja.data = [{
             window.location.href = "/blog/2025/cooking-mix/";
           
         },
-      },{id: "books-看见",
-          title: '看见',
+      },{id: "books-沉默的大多数-the-silent-majority",
+          title: '沉默的大多数 The Silent Majority',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/00001_silent/";
+            },},{id: "books-我的精神家园-my-spiritual-homeland",
+          title: '我的精神家园 My Spiritual Homeland',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/00002_jiayuan/";
+            },},{id: "books-看见-insight",
+          title: '看见 Insight',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/0001_kanjian/";

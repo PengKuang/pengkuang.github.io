@@ -16,7 +16,7 @@ stars: 4.8
 status: Finished
 ---
 
-This book compiles Liu Yu’s articles on global democracy.
+This book compiles Liu Yu’s articles on global democracy. Liu Yu received her Ph.D. in political science from Columbia University and later did a postdoc at Harvard University. She is now a professor at Tsinghua University and was previously a lecturer at Cambridge University for a brief period.
 
 作为国内公共领域最重要的声音之一，刘瑜的文字向来拥趸众多，之前的作品更多关注美国民主，与中国相关度不高。而本书更多关注东亚、中东欧、南美洲以及非洲国家的政治与民主化，比如英国、俄罗斯、委内瑞拉、赞比亚等，这些国家的民主化进程参差不齐，而很多情况与现今中国有较强的可比性，这无疑让这本书更生动，更接地气。
 

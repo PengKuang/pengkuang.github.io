@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-### Qualifications
+### Qualifications (Sweden)
 
 - Introduction to Teaching and Learning in Higher Education
 - Communicating Research
@@ -15,11 +15,15 @@ nav_order: 4
 ### Courses
 
 - Agile Software Development (Java, Linux/Bash & Git, three semesters, ongoing)
-- Software Testing (Java, one semester)
-- Software Development for Large-scale Systems (Java & JS, one semester)
+- Software Testing (Java, two semesters)
+- Software Development for Large-scale Systems (Java & JavaScript, one semester)
 - Object-Oriented Modeling and Design (Java, two semesters)
 - Database Technology (SQL & Java, one semester)
 
+### Master Thesis
+
+- Ludvig Nyström: Retrieval-Augmented Generation for Optimizing Educational Guidance
+
 ### Bachelor Thesis
 
-- Locally Deploying an AI Chatbot to Limited Hardware with Custom Data
+- Ludwig Sinclair, Albin Olausson: Locally Deploying An AI Chatbot with RAG to Consumer Hardware with Custom Data
