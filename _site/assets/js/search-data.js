@@ -139,6 +139,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/002_eyetracking_guide/";
+            },},{id: "books-participatory-design-principles-and-practices",
+          title: 'Participatory Design Principles and Practices',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/098_participatory_design/";
             },},{id: "books-concepts-of-programming-languages",
           title: 'Concepts of Programming Languages',
           description: "",
@@ -244,4 +249,30 @@ ninja.data = [{
         handler: () => {
           window.open("https://scholar.google.com/citations?user=QDUM9CIAAAAJ", "_blank");
         },
-      },];
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
