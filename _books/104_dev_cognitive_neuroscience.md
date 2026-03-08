@@ -2,7 +2,7 @@
 layout: book-review
 title: Developmental Cognitive Neuroscience
 author: Mark H. Johnson
-cover: assets/img/book_covers/book_cognitive_neuroscience.png
+cover: assets/img/book_covers/book_dev_cognitive_neuroscience.png
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 1444330861 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: cognitiveneuroscience brain humanbehaviour
