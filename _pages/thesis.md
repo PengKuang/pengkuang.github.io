@@ -37,9 +37,9 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 
 ### Supervisors
 
-- [Emma Söderberg (main supervisor)](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
-- [Martin Höst (co-supervisor)](https://mau.se/personer/martin.host/)
-- [Diederick C. Niehorster (co-supervisor)](https://portal.research.lu.se/en/persons/diederick-c-niehorster)
+- [Associate Professor Emma Söderberg (main supervisor), Lund University](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
+- [Professor Martin Höst (co-supervisor), Malmö University](https://mau.se/personer/martin.host/)
+- [Dr. Diederick C. Niehorster (co-supervisor), Humanities Lab, Lund University](https://portal.research.lu.se/en/persons/diederick-c-niehorster)
 
 ### Opponent
 
@@ -48,6 +48,6 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 ### Examination Committee Members
 
 - [Professor Yvonne Dittrich, IT University of Copenhagen, Denmark](https://www.itu.dk/~ydi/)
-- [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
 - [Professor Emilia Mendas, Aarhus University, Denmark](https://www.au.dk/en/eme@ece.au.dk)
+- [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
 - [Dr. Sara Willhammar (deputy member), Lund University, Sweden](https://portal.research.lu.se/sv/persons/sara-willhammar/)
