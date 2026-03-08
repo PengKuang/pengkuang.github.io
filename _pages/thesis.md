@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Building Intelligent, Gaze-aware Programming Environments for Better Accessibility, Interactivity, and Productivity
+## Building Gaze-aware Programming Environments
 
 ### Abstract
 
@@ -32,7 +32,7 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 | Paper II  | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |    Published     |           [Read](https://dl.acm.org/doi/10.1145/3588015.3589190) |
 | Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |           [Read](https://dl.acm.org/doi/10.1145/3660829.3660848) |
 | Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     |          [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
-| Paper V   | GazePrinter: Gaze Communication for First-time Codebase Comprehension, A Controlled Experiment                   | Work in Progress |                                                   Available soon |
+| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase | Work in Progress |                                                   Available soon |
 |           |
 
 ### Supervisors
@@ -41,6 +41,13 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 - [Martin Höst (co-supervisor)](https://mau.se/personer/martin.host/)
 - [Diederick C. Niehorster (co-supervisor)](https://portal.research.lu.se/en/persons/diederick-c-niehorster)
 
-### Opponent & Committee Members
+### Opponent
 
-- To be listed soon
+- [Associate Professor Andrew Begel, Carnegie Mellon University, USA](https://s3d.cmu.edu/people/core-faculty/begel-andrew1.html)
+
+### Examination Committee Members
+
+- [Professor Yvonne Dittrich, IT University of Copenhagen, Denmark](https://www.itu.dk/~ydi/)
+- [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
+- [Professor Emilia Mendas, Aarhus University, Denmark](https://www.au.dk/en/eme@ece.au.dk)
+- [Dr. Sara Willhammar (deputy member), Lund University, Sweden](https://portal.research.lu.se/sv/persons/sara-willhammar/)
