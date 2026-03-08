@@ -15,6 +15,7 @@ nav_order: 4
 ### Courses
 
 - Agile Software Development (Java, Linux/Bash & Git, three semesters, ongoing)
+- Scientific Theories for Engineers (one semester, ongoing)
 - Software Testing (Java, two semesters)
 - Software Development for Large-scale Systems (Java & JavaScript, one semester)
 - Object-Oriented Modeling and Design (Java, two semesters)
@@ -26,4 +27,5 @@ nav_order: 4
 
 ### Bachelor Thesis
 
+- Tobias Gajdos, Jacob Hellström: Reducing LLM hallucinations using metagraph information modeling (ongoing)
 - Ludwig Sinclair, Albin Olausson: Locally Deploying An AI Chatbot with RAG to Consumer Hardware with Custom Data

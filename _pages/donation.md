@@ -3,8 +3,8 @@ layout: page
 permalink: /donation/
 title: donation
 description:
-nav: true
-nav_order: 9
+nav: false
+nav_order: 10
 ---
 
 I take pride in being a donator to the following projects:

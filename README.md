@@ -12,3 +12,7 @@ A formatting check is needed for a successful push to GitHub:
 
 check: npx prettier --check .
 correction: npx prettier --write .
+
+### Run locally before deployment
+
+`bundle exec jekyll serve`

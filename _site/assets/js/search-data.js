@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-xr",
+          title: "XR",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/xr/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
@@ -64,13 +71,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-donation",
-          title: "donation",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/donation/";
           },
         },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
         
@@ -181,8 +181,14 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-presentation-at-ppig-hcc-amp-amp-vl-2024-in-liverpool-uk",
           title: 'I gave a presentation at PPIG/HCC &amp;amp;amp; VL 2024 in Liverpool, UK',
           description: "",
-          section: "News",},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-snowman-snowflake",
-          title: 'I started visiting the PEACH lab at ETH Zurich :snowman: :snowflake:',
+          section: "News",},{id: "news-i-started-visiting-the-peach-lab-at-eth-zurich-hosted-by-a-prof-april-wang-snowman-snowflake",
+          title: 'I started visiting the PEACH lab at ETH Zurich, hosted by A/Prof. April...',
+          description: "",
+          section: "News",},{id: "news-my-defense-planned-on-may-13-2026-is-officially-approved-by-the-internal-committee-at-lth-partying-face",
+          title: 'My defense (planned on May 13, 2026) is officially approved by the internal...',
+          description: "",
+          section: "News",},{id: "news-i-formally-passed-the-mri-course-functional-and-structural-brain-imaging-sunglasses",
+          title: 'I formally passed the MRI course - Functional and Structural Brain Imaging :sunglasses:...',
           description: "",
           section: "News",},{id: "projects-adaptive-developer-tools",
           title: 'Adaptive Developer Tools',
