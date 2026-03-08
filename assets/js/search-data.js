@@ -168,7 +168,17 @@ ninja.data = [{
           title: 'Developmental Cognitive Neuroscience',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/104_cognitive_neuroscience/";
+              window.location.href = "/books/104_dev_cognitive_neuroscience/";
+            },},{id: "books-cognitive-neuroscience",
+          title: 'Cognitive Neuroscience',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/105_cog_neuro/";
+            },},{id: "books-what-is-this-thing-called-science",
+          title: 'What is this thing called science?',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/106_what_is_science/";
             },},{id: "news-i-received-my-licentiate-degree-a-scandinavian-thing-in-engineering-balloon-partying-face",
           title: 'I received my Licentiate degree (a Scandinavian thing) in Engineering :balloon: :partying_face:',
           description: "",
