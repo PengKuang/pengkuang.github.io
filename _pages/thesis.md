@@ -32,7 +32,7 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 | Paper II  | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |    Published     |           [Read](https://dl.acm.org/doi/10.1145/3588015.3589190) |
 | Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |           [Read](https://dl.acm.org/doi/10.1145/3660829.3660848) |
 | Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     |          [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
-| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase | Work in Progress |                                                   Available soon |
+| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase                                          | Work in Progress |                                                   Available soon |
 |           |
 
 ### Supervisors
