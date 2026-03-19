@@ -21,9 +21,9 @@ For future work, we invite research exploring adaptive, gaze-driven assistance a
 
 ### Thesis
 
-| Item   | Title                                        | Status |                                                                               Link |
-| :----- | :------------------------------------------- | :----: | ---------------------------------------------------------------------------------: |
-| Thesis | Building Gaze-aware Programming Environments | Draft  | [Download](https://drive.google.com/file/d/1PDJ9y-d3qNRiKDw3XXRNyDmZWr9zSNtN/view) |
+| Item   | Title                                        | Status |         Link |
+| :----- | :------------------------------------------- | :----: | -----------: |
+| Thesis | Building Gaze-aware Programming Environments | Draft  | Upon request |
 |        |
 
 ### Included Papers
