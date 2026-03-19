@@ -1,0 +1,53 @@
+---
+layout: page
+permalink: /thesis-bkp/
+title: thesis
+description: The papers to be included in my doctoral dissertation.
+nav: false
+nav_order: 99
+---
+
+## Building Gaze-aware Programming Environments
+
+### Abstract
+
+**Background:** Code comprehension is a cognitively demanding Software Engineering (SE) task. Studies report that developers can spend up to 60% of their working hours reading code. For instance, software engineers onboarding at Google can take up to five months to become familiar with a new codebase and stabilize their productivity. Meanwhile, eye-tracking (ET) has been employed for empirical SE studies for decades. While it has contributed to understanding programmers’ gaze behavior and cognitive activities to some extent, only a few studies have explored integrating fine-grained gaze-based assistance directly into the programming environment. In particular, there is a lack of participatory design approaches, which emphasize incorporating end-users' perspectives from the earliest stages. Furthermore, the effectiveness of gaze-driven assistance has rarely been examined with code stumuli at scale in real-world programming environments.
+
+**Objectives:** In this thesis, our objectives are to: (1) understand the state of the art regarding how eye-tracking has been used in SE studies. (2) assess what machine learning techniques have been applied to gaze data in the context of software development. (3) gather data on current problems professional developer encounter and what types of tool support they desire. (4) co-design new tool support with programmers and develop design artifacts. (5) develop a proof-of-concept to evaluate whether gaze-based assistance can support programmers during onboarding new codebases.
+
+**Method:** At a high level, we employed the Design Science Model for Empirical Software Engineering. This methodology consists of a problem–solution pair (horizontally) and a theory–practice pair (vertically). Our studies correspond to the Problem Construct (Paper I), Solution Construct (Paper II), Problem Instance (Paper III), Solution Instance (Paper IV), and Empirical Evaluation (Paper V) components, which map onto the quadrants of this methodology when visualized.
+Specifically, to understand how ET is used in SE research, we conducted a systematic mapping study including 71 papers. To examine how ML has been applied to leverage gaze data in SE, we synthesized findings from 10 papers. To identify problems faced by programmers, we surveyed 68 professional developers and academics with substantial industrial experience. To sketch solutions for the pinpointed problems, we organized a co-design workshop and subsequently conducted user testing with four and five programmers, respectively. Finally, to evaluate whether our proof-of-concept enhances programmers’ reading and understanding of code at scale, we conducted a controlled experiment with 40 novices.
+
+![method]({{'/assets/img/thesis/papers-emse-dsm.png' | relative_url}})
+
+**Results:** By consolidating studies in the areas of interest, we found that experiments were primarily conducted with toy code snippets and novice participants, and that ML techniques have mainly been used to predict programmer expertise and task difficulty in program comprehension contexts. Our survey revealed that code comprehension remains a major pain point among professional developers. Through co-designing solutions for this problem, we identified a promising opportunity for gaze-driven assistance, as programmers preferred it over voice-based support. Comparing the control and experimental groups to each other and to experts, we found that gaze-based assistance can influence programmers’ attention-distribution strategies, leading them to read fewer peripheral files and focus more effectively on relevant code.
+
+**Conclusion:** In summary, our work comprises a series of mixed-methods, evidence-based studies grounded in the theory of participatory design. It provides fine-grained evidence that both corroborates and extends findings regarding the use of gaze as a tool to support programmers. Moreover, it aligns with the growing importance of gaze as a communication medium for intelligent human–AI collaboration in future Software Engineering.
+
+### Included Papers
+
+| Item      | Title                                                                                                            |      Status      |                                                                           Link |
+| :-------- | :--------------------------------------------------------------------------------------------------------------- | :--------------: | -----------------------------------------------------------------------------: |
+| Paper I   | Toward Gaze-assisted Developer Tools                                                                             |    Published     |               [Read](https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00015) |
+| Paper II  | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |    Published     |                         [Read](https://dl.acm.org/doi/10.1145/3588015.3589190) |
+| Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |                         [Read](https://dl.acm.org/doi/10.1145/3660829.3660848) |
+| Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     |                        [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
+| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase                                          | Work in Progress | [Read](https://drive.google.com/file/d/1PDJ9y-d3qNRiKDw3XXRNyDmZWr9zSNtN/view) |
+|           |
+
+### Supervisors
+
+- [Associate Professor Emma Söderberg (main supervisor), Lund University](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
+- [Professor Martin Höst (co-supervisor), Malmö University](https://mau.se/personer/martin.host/)
+- [Dr. Diederick C. Niehorster (co-supervisor), Humanities Lab, Lund University](https://portal.research.lu.se/en/persons/diederick-c-niehorster)
+
+### Opponent
+
+- [Associate Professor Andrew Begel, Carnegie Mellon University, USA](https://s3d.cmu.edu/people/core-faculty/begel-andrew1.html)
+
+### Examination Committee Members
+
+- [Professor Yvonne Dittrich, IT University of Copenhagen, Denmark](https://www.itu.dk/~ydi/)
+- [Professor Emilia Mendas, Aarhus University, Denmark](https://www.au.dk/en/eme@ece.au.dk)
+- [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
+- [Dr. Sara Willhammar (deputy member), Lund University, Sweden](https://portal.research.lu.se/sv/persons/sara-willhammar/)

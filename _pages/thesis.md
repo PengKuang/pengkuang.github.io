@@ -9,30 +9,32 @@ nav_order: 2
 
 ## Building Gaze-aware Programming Environments
 
-### Abstract
+Programming is a cognitively demanding exercise. Artificial Intelligence (AI) as a disruptive technology is redefining the practice of programming and transforming software engineering. % as many other technologies have before. As AI is evolving to a multimodal version that accommodates not only texts but also speech, images, and more, we see an opportunity to design eye-tracking based assistance to support programmers. Since AI has taken the heavy lifting of producing code, we speculate that programmers will read and understand a larger amount of code and thereby spend more of their time reading it. We deem this a promising problem domain where eye-tracking can be of assistance.
 
-**Background:** Code comprehension is a cognitively demanding Software Engineering (SE) task. Studies report that developers can spend up to 60% of their working hours reading code. For instance, software engineers onboarding at Google can take up to five months to become familiar with a new codebase and stabilize their productivity. Meanwhile, eye-tracking (ET) has been employed for empirical SE studies for decades. While it has contributed to understanding programmers’ gaze behavior and cognitive activities to some extent, only a few studies have explored integrating fine-grained gaze-based assistance directly into the programming environment. In particular, there is a lack of participatory design approaches, which emphasize incorporating end-users' perspectives from the earliest stages. Furthermore, the effectiveness of gaze-driven assistance has rarely been examined with code stumuli at scale in real-world programming environments.
+To explore this inquiry, we undertook two mapping studies to establish the problem and solution constructs. We then surveyed 68 professional developers to understand this representative cohort and gather concrete, situated problems from them. After that, we co-developed multiple versions of design artifacts with a variety of groups of programmers. Finally, we employed a mixed-methods approach, including a pre-experiment survey, a controlled experiment, and post-experiment interviews with 40 novice programmers, to evaluate the proof-of-concept GazePrinter.
 
-**Objectives:** In this thesis, our objectives are to: (1) understand the state of the art regarding how eye-tracking has been used in SE studies. (2) assess what machine learning techniques have been applied to gaze data in the context of software development. (3) gather data on current problems professional developer encounter and what types of tool support they desire. (4) co-design new tool support with programmers and develop design artifacts. (5) develop a proof-of-concept to evaluate whether gaze-based assistance can support programmers during onboarding new codebases.
+From the first study, we found that eye-tracking so far is used mostly for education-oriented studies in the research community focused on software development. There is a need to bring it closer to practitioners. From the second study, we identify that the gaze data produced by eye trackers has been explored with a collection of machine learning techniques. However, these models were trained with small samples that might carry bias and insufficiency. Contemporary machine learning techniques may be able to compensate for that. From the survey, we learned that developers have already adopted AI assistance, and they are mostly positive about it despite room for greater accuracy and capability. As eye-tracking is relatively novel to them, most developers are unsure about how it can help them. From the design study, we realized that programmers are intrigued by gaze-based assistance in a programming environment. Lastly, from the evaluation study, we found that our designed intervention, GazePrinter, can nudge novice programmers to read code in a manner that more closely aligns with experts.
 
-**Method:** At a high level, we employed the Design Science Model for Empirical Software Engineering. This methodology consists of a problem–solution pair (horizontally) and a theory–practice pair (vertically). Our studies correspond to the Problem Construct (Paper I), Solution Construct (Paper II), Problem Instance (Paper III), Solution Instance (Paper IV), and Empirical Evaluation (Paper V) components, which map onto the quadrants of this methodology when visualized.
-Specifically, to understand how ET is used in SE research, we conducted a systematic mapping study including 71 papers. To examine how ML has been applied to leverage gaze data in SE, we synthesized findings from 10 papers. To identify problems faced by programmers, we surveyed 68 professional developers and academics with substantial industrial experience. To sketch solutions for the pinpointed problems, we organized a co-design workshop and subsequently conducted user testing with four and five programmers, respectively. Finally, to evaluate whether our proof-of-concept enhances programmers’ reading and understanding of code at scale, we conducted a controlled experiment with 40 novices.
+For future work, we invite research exploring adaptive, gaze-driven assistance and interactions in AI native environments for different programmers.
 
-![method]({{'/assets/img/thesis/papers-emse-dsm.png' | relative_url}})
+| |
 
-**Results:** By consolidating studies in the areas of interest, we found that experiments were primarily conducted with toy code snippets and novice participants, and that ML techniques have mainly been used to predict programmer expertise and task difficulty in program comprehension contexts. Our survey revealed that code comprehension remains a major pain point among professional developers. Through co-designing solutions for this problem, we identified a promising opportunity for gaze-driven assistance, as programmers preferred it over voice-based support. Comparing the control and experimental groups to each other and to experts, we found that gaze-based assistance can influence programmers’ attention-distribution strategies, leading them to read fewer peripheral files and focus more effectively on relevant code.
+### Thesis
 
-**Conclusion:** In summary, our work comprises a series of mixed-methods, evidence-based studies grounded in the theory of participatory design. It provides fine-grained evidence that both corroborates and extends findings regarding the use of gaze as a tool to support programmers. Moreover, it aligns with the growing importance of gaze as a communication medium for intelligent human–AI collaboration in future Software Engineering.
+| Item   | Title                                        | Status |                                                                               Link |
+| :----- | :------------------------------------------- | :----: | ---------------------------------------------------------------------------------: |
+| Thesis | Building Gaze-aware Programming Environments | Draft  | [Download](https://drive.google.com/file/d/1PDJ9y-d3qNRiKDw3XXRNyDmZWr9zSNtN/view) |
+|        |
 
 ### Included Papers
 
-| Item      | Title                                                                                                            |      Status      |                                                             Link |
-| :-------- | :--------------------------------------------------------------------------------------------------------------- | :--------------: | ---------------------------------------------------------------: |
-| Paper I   | Toward Gaze-assisted Developer Tools                                                                             |    Published     | [Read](https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00015) |
-| Paper II  | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |    Published     |           [Read](https://dl.acm.org/doi/10.1145/3588015.3589190) |
-| Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |    Published     |           [Read](https://dl.acm.org/doi/10.1145/3660829.3660848) |
-| Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |    Published     |          [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
-| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase                                          | Work in Progress |                                                   Available soon |
+| Item      | Title                                                                                                            |         Status          |                                                             Link |
+| :-------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------: | ---------------------------------------------------------------: |
+| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase                                          | Manuscript under review |                                                   available soon |
+| Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |        Published        |          [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
+| Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |        Published        |           [Read](https://dl.acm.org/doi/10.1145/3660829.3660848) |
+| Paper II  | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |        Published        |           [Read](https://dl.acm.org/doi/10.1145/3588015.3589190) |
+| Paper I   | Toward Gaze-assisted Developer Tools                                                                             |        Published        | [Read](https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00015) |
 |           |
 
 ### Supervisors
@@ -51,3 +53,5 @@ Specifically, to understand how ET is used in SE research, we conducted a system
 - [Professor Emilia Mendas, Aarhus University, Denmark](https://www.au.dk/en/eme@ece.au.dk)
 - [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
 - [Dr. Sara Willhammar (deputy member), Lund University, Sweden](https://portal.research.lu.se/sv/persons/sara-willhammar/)
+
+| |
