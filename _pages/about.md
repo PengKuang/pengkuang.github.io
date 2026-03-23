@@ -6,10 +6,10 @@ subtitle: <a href='https://portal.research.lu.se/en/persons/peng-kuang'>NEX lab,
 
 profile:
   align: right
-  image: prof_pic_unimelb.png
+  image: peng-eeg-smile.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>kap.kuang at gmail.com</p>
+  # more_info: >
+  #   <p>kap.kuang at gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,7 +29,7 @@ latest_posts:
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm a WASP-affiliated Ph.D. student in Computer Science, advised by [A/Prof. Emma Söderberg](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg), [Prof. Martin Höst](https://mau.se/personer/martin.host/), and [Dr. Diederick C. Niehorster](https://portal.research.lu.se/en/persons/diederick-c-niehorster). My research lies at the intersection of **programming systems** (languages and tools), **eye tracking**, and **human-centered machine learning**, with influences from human-computer interaction (HCI), design science, and cognitive neuroscience. Additionaly, I'm interested in multimodal intelligence (for education and health), brain-machine interface, VR/XR, and quantum computing.
+I'm a WASP-affiliated Ph.D. student in Computer Science, advised by [A/Prof. Emma Söderberg](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg), [Prof. Martin Höst](https://mau.se/personer/martin.host/), and [Dr. Diederick C. Niehorster](https://portal.research.lu.se/en/persons/diederick-c-niehorster). My research lies at the intersection of **programming systems** (languages and tools), **eye tracking**, and **human-centered machine learning**, with influences from design science, HCI, and cognitive neuroscience. Additionaly, I'm interested in multimodal intelligence (for education and health), brain-machine interface, VR/XR, and quantum computing.
 
 I did my Master of Information Technology at The University of Melbourne where I worked as a RA for [Prof. Shanton Chang](https://findanexpert.unimelb.edu.au/profile/3747-shanton-chang). My master thesis was supervised by [Prof. Leon Sterling](https://findanexpert.unimelb.edu.au/profile/13376-leon-sterling) and [A/Prof. Antonette Mendoza](https://findanexpert.unimelb.edu.au/profile/6868-antonette-mendoza). Before that, I was studying at Monash University. I was awarded the International Merit Scholarship by the Falcuty of Information Technology and received my Graduate Certificate in IT there.
 

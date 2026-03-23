@@ -27,3 +27,7 @@
 
 "UIST":
   url: https://uist.acm.org/2025/
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

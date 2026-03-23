@@ -21,16 +21,16 @@ For future work, we invite research exploring adaptive, gaze-driven assistance a
 
 ### Thesis
 
-| Item   | Title                                        | Status |         Link |
-| :----- | :------------------------------------------- | :----: | -----------: |
-| Thesis | Building Gaze-aware Programming Environments | Draft  | Upon request |
-|        |
+| Item         | Title                                        |    Status    |           Link |
+| :----------- | :------------------------------------------- | :----------: | -------------: |
+| Dissertation | Building Gaze-aware Programming Environments | Under review | Available soon |
+|              |
 
 ### Included Papers
 
 | Item      | Title                                                                                                            |         Status          |                                                             Link |
 | :-------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------: | ---------------------------------------------------------------: |
-| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase                                          | Manuscript under review |                                                   available soon |
+| Paper V   | GazePrinter: Visualizing Expert Gaze to Guide Novices in a New Codebase                                          | Manuscript under review |                          [Read](http://arxiv.org/abs/2603.19855) |
 | Paper IV  | Designing A Multi-modal IDE with Developers: An Exploratory Study on Next-generation Programming Tool Assistance |        Published        |          [Read](https://ppig.org/files/2024-PPIG-35th-kuang.pdf) |
 | Paper III | Developers' Perspective on Today's and Tomorrow's Programming Tool Assistance: A Survey                          |        Published        |           [Read](https://dl.acm.org/doi/10.1145/3660829.3660848) |
 | Paper II  | Applying Machine Learning to Gaze Data in Software Development: a Mapping Study                                  |        Published        |           [Read](https://dl.acm.org/doi/10.1145/3588015.3589190) |

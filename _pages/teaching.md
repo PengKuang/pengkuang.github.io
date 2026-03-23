@@ -23,7 +23,7 @@ nav_order: 4
 
 ### Master Thesis
 
-- Ludvig Nyström: Retrieval-Augmented Generation for Optimizing Educational Guidance
+- Ludvig Nyström: Retrieval-Augmented Generation for Optimizing Educational Exploration
 
 ### Bachelor Thesis
 
