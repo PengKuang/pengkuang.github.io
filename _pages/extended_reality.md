@@ -9,7 +9,7 @@ nav_order: 7
 
 You can click the links below to view the XR pages.
 
-Use the camera of your mobile phone to scan the visual object, and then try to place it in the physical environment around you. Have fun!
+Use the camera of your mobile phone to scan the virtual object, and then try to place it in the physical environment around you. Have fun!
 
 #### AR/VR/XR Toy Examples
 
