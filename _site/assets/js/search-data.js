@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-thesis",
+  },{id: "nav-bio",
+          title: "bio",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bio/";
+          },
+        },{id: "nav-thesis",
           title: "thesis",
           description: "The papers to be included in my doctoral dissertation.",
           section: "Navigation",
@@ -58,13 +65,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-bio",
-          title: "bio",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/bio/";
-          },
         },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
         
           title: "Can we make reading code easier with eye tracking?",
@@ -87,16 +87,21 @@ ninja.data = [{
             window.location.href = "/blog/2025/cooking-mix/";
           
         },
-      },{id: "books-沉默的大多数-the-silent-majority",
+      },{id: "books-我的精神家园-my-spiritual-homeland",
+          title: '我的精神家园 My Spiritual Homeland',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/00000_jiayuan/";
+            },},{id: "books-沉默的大多数-the-silent-majority",
           title: '沉默的大多数 The Silent Majority',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/00001_silent/";
-            },},{id: "books-我的精神家园-my-spiritual-homeland",
-          title: '我的精神家园 My Spiritual Homeland',
+            },},{id: "books-青铜时代-the-bronze-age",
+          title: '青铜时代 The Bronze Age',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/00002_jiayuan/";
+              window.location.href = "/books/00002_qingtongshidai/";
             },},{id: "books-看见-insight",
           title: '看见 Insight',
           description: "",
