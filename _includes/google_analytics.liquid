@@ -1,0 +1,13 @@
+{% if site.enable_google_analytics %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V3F8N2N7N5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-V3F8N2N7N5');
+  </script>
+{% endif %}

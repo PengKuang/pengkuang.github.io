@@ -229,13 +229,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_gander/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6B%61%70.%6B%75%61%6E%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -257,18 +250,18 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-7029-5655", "_blank");
         },
       },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Peng-Kuang-2/", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=QDUM9CIAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6B%61%70.%6B%75%61%6E%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',
