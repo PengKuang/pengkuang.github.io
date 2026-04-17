@@ -9,6 +9,16 @@ nav_order: 2
 
 ## Building Gaze-aware Programming Environments
 
+| |
+
+| Item         | Title                                        |          Date & Time           |                        Location                        |                                                                                                                                                                                                           Link |
+| :----------- | :------------------------------------------- | :----------------------------: | :----------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Dissertation | Building Gaze-aware Programming Environments | Wednesday, May 13, 2026, 13:00 | E:1406, E-building, Klas Anshelms väg 10, Lund, Sweden | [Read](https://portal.research.lu.se/sv/publications/building-gaze-aware-programming-environments/), [Download](https://lucris.lub.lu.se/ws/portalfiles/portal/247621746/Kuang_doctoral_dissertation_v1.2.pdf) |
+|              |
+|              |
+
+### Abstract
+
 Programming is a cognitively demanding exercise. Artificial Intelligence (AI) as a disruptive technology is redefining the practice of programming and transforming software engineering. As AI is evolving to a multimodal version that accommodates not only texts but also speech, images, and more, we see an opportunity to design eye-tracking based assistance to support programmers. Since AI has taken the heavy lifting of producing code, we speculate that programmers will read and understand a larger amount of code and thereby spend more of their time reading it. We deem this a promising problem domain where eye-tracking can be of assistance.
 
 To explore this inquiry, we undertook two mapping studies to establish the problem and solution constructs. We then surveyed 68 professional developers to understand this representative cohort and gather concrete, situated problems from them. After that, we co-developed multiple versions of design artifacts with a variety of groups of programmers. Finally, we employed a mixed-methods approach, including a pre-experiment survey, a controlled experiment, and post-experiment interviews with 40 novice programmers, to evaluate the proof-of-concept GazePrinter.
@@ -18,13 +28,6 @@ From the first study, we found that eye-tracking so far is used mostly for educa
 For future work, we invite research exploring adaptive, gaze-driven assistance and interactions in AI native environments for different programmers.
 
 | |
-
-### Thesis
-
-| Item         | Title                                        |    Status    |           Link |
-| :----------- | :------------------------------------------- | :----------: | -------------: |
-| Dissertation | Building Gaze-aware Programming Environments | Under review | Available soon |
-|              |
 
 ### Included Papers
 
@@ -37,13 +40,7 @@ For future work, we invite research exploring adaptive, gaze-driven assistance a
 | Paper I   | Toward Gaze-assisted Developer Tools                                                                             |        Published        | [Read](https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00015) |
 |           |
 
-### Supervisors
-
-- [Associate Professor Emma Söderberg (main supervisor), Lund University](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
-- [Professor Martin Höst (co-supervisor), Malmö University](https://mau.se/personer/martin.host/)
-- [Dr. Diederick C. Niehorster (co-supervisor), Humanities Lab, Lund University](https://portal.research.lu.se/en/persons/diederick-c-niehorster)
-
-### Opponent
+### Faculty Opponent
 
 - [Associate Professor Andrew Begel, Carnegie Mellon University, USA](https://s3d.cmu.edu/people/core-faculty/begel-andrew1.html)
 
@@ -53,5 +50,11 @@ For future work, we invite research exploring adaptive, gaze-driven assistance a
 - [Professor Emilia Mendas, Aarhus University, Denmark](https://www.au.dk/en/eme@ece.au.dk)
 - [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
 - [Dr. Sara Willhammar (deputy member), Lund University, Sweden](https://portal.research.lu.se/sv/persons/sara-willhammar/)
+
+### Supervisors
+
+- [Associate Professor Emma Söderberg (main supervisor), Lund University](https://portal.research.lu.se/sv/persons/emma-s%C3%B6derberg)
+- [Professor Martin Höst (co-supervisor), Malmö University](https://mau.se/personer/martin.host/)
+- [Dr. Diederick C. Niehorster (co-supervisor), Humanities Lab, Lund University](https://portal.research.lu.se/en/persons/diederick-c-niehorster)
 
 | |
