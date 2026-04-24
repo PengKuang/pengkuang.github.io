@@ -11,9 +11,9 @@ nav_order: 2
 
 | |
 
-| Item         | Title                                        |          Date & Time           |                        Location                        |                                                                                                                                                                                                           Link |
-| :----------- | :------------------------------------------- | :----------------------------: | :----------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Dissertation | Building Gaze-aware Programming Environments | Wednesday, May 13, 2026, 13:00 | E:1406, E-building, Klas Anshelms väg 10, Lund, Sweden | [Read](https://portal.research.lu.se/sv/publications/building-gaze-aware-programming-environments/), [Download](https://lucris.lub.lu.se/ws/portalfiles/portal/247621746/Kuang_doctoral_dissertation_v1.2.pdf) |
+| Item         | Title                                        |          Date & Time           |                        Location                        |                                                                                                Link |
+| :----------- | :------------------------------------------- | :----------------------------: | :----------------------------------------------------: | --------------------------------------------------------------------------------------------------: |
+| Dissertation | Building Gaze-aware Programming Environments | Wednesday, May 13, 2026, 13:00 | E:1406, E-building, Klas Anshelms väg 10, Lund, Sweden | [Read](https://portal.research.lu.se/sv/publications/building-gaze-aware-programming-environments/) |
 |              |
 |              |
 
