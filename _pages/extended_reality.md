@@ -3,7 +3,7 @@ layout: page
 permalink: /xr/
 title: XR
 description:
-nav: true
+nav: false
 nav_order: 7
 ---
 

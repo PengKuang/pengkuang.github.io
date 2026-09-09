@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const container = document.getElementById("goo-container");
   if (!container) return;
 
-  const numPetals = 5;
+  const numPetals = 3;
   const petals = [];
 
   for (let i = 0; i < numPetals; i++) {
