@@ -30,33 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-books",
-          title: "books",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-xr",
-          title: "XR",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/xr/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
           },
         },{id: "post-can-we-make-reading-code-easier-with-eye-tracking",
         
@@ -190,6 +169,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-formally-passed-the-mri-course-functional-and-structural-brain-imaging-sunglasses",
           title: 'I formally passed the MRI course - Functional and Structural Brain Imaging :sunglasses:...',
+          description: "",
+          section: "News",},{id: "news-i-completed-a-two-day-training-on-eeg-electroencephalogram-at-humanities-lab-brain",
+          title: 'I completed a two-day training on EEG (electroencephalogram) at Humanities Lab :brain:',
           description: "",
           section: "News",},{id: "projects-adaptive-developer-tools",
           title: 'Adaptive Developer Tools',
