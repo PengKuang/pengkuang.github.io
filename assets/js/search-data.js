@@ -177,16 +177,6 @@ ninja.data = [{
           description: "oral presentations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_videos/";
-            },},{id: "projects-baking",
-          title: 'baking',
-          description: "sweet life",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_baking/";
-            },},{id: "projects-cooking",
-          title: 'cooking',
-          description: "soul food",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_cooking/";
             },},{id: "projects-gazing-at-code-review",
           title: 'Gazing at Code Review',
           description: "Gander",
