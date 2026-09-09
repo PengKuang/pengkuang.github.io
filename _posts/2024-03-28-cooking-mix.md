@@ -5,6 +5,7 @@ date: 2025-03-28 13:32:00
 description: a mix of cooking pics
 tags: cooking
 categories: life
+published: false
 thumbnail: assets/img/cooking/cooking_korean_spicy_chicken.png
 images:
   lightbox2: true

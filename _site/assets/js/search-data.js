@@ -48,17 +48,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/popular-science/";
           
         },
-      },{id: "post-a-mix-of-cooking-pics",
-        
-          title: "A mix of cooking pics",
-        
-        description: "a mix of cooking pics",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/cooking-mix/";
-          
-        },
       },{id: "books-我的精神家园-my-spiritual-homeland",
           title: '我的精神家园 My Spiritual Homeland',
           description: "",
