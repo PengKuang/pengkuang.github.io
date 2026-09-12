@@ -46,9 +46,9 @@ For future work, we invite research exploring adaptive, gaze-driven assistance a
 
 ### Examination Committee Members
 
+- [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
 - [Professor Yvonne Dittrich, IT University of Copenhagen, Denmark](https://www.itu.dk/~ydi/)
 - [Professor Emilia Mendas, Aarhus University, Denmark](https://www.au.dk/en/eme@ece.au.dk)
-- [Professor Veronica Sundstedt, Blekinge Institute of Technology, Sweden](https://www.bth.se/om-bth/personer/veronica-sundstedt)
 - [Dr. Sara Willhammar (deputy member), Lund University, Sweden](https://portal.research.lu.se/sv/persons/sara-willhammar/)
 
 ### Supervisors
