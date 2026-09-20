@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const container = document.getElementById("goo-container");
   if (!container) return;
 
-  const numPetals = 3;
+  const numPetals = 4;
   const petals = [];
 
   for (let i = 0; i < numPetals; i++) {
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
       el: use,
       x: Math.random() * window.innerWidth,
       y: Math.random() * window.innerHeight,
-      speedY: 0.1 + Math.random() * 1.3,
+      speedY: 0.1 + Math.random() * 1.2,
       driftX: (Math.random() - 0.5) * 1.0,
       angle: Math.random() * 360,
       rotationSpeed: (Math.random() - 0.5) * 0.25,

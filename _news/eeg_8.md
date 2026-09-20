@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed a two-day training on EEG (electroencephalogram) at Humanities Lab :brain:
+I completed the training on EEG (electroencephalogram) at Humanities Lab :brain:
